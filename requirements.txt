@@ -1,0 +1,14 @@
+numpy
+matplotlib
+opencv-python
+scikit-learn
+tensorflow
+nest-asyncio
+playwright
+transformers
+requests
+vaderSentiment
+beautifulsoup4
+pandas
+tqdm
+feedparser
