@@ -1,0 +1,1001 @@
+book_id,title,price,adjusted_price,price_change_pct,similarity_score,availability,demand_level,stock_level,profit_or_loss
+1,It's Only the Himalayas,45.17,42.91,-0.05,0.01,19,Low,Medium Stock,Loss
+2,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,49.43,46.96,-0.05,0.0153,15,Low,Medium Stock,Loss
+3,See America: A Celebration of Our National Parks & Treasured Sites,48.87,48.87,0.0,0.038,14,Medium,Medium Stock,Neutral
+4,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,38.79,0.05,0.0223,8,Medium,Low Stock,Profit
+5,Under the Tuscan Sun,37.33,35.46,-0.05,0.018,7,Low,Low Stock,Loss
+6,A Summer In Europe,44.34,46.56,0.05,0.0234,7,Medium,Low Stock,Profit
+7,The Great Railway Bazaar,30.54,36.65,0.2,0.0983,6,High,Low Stock,Profit
+8,A Year in Provence (Provence #1),56.88,68.26,0.2,0.0643,6,High,Low Stock,Profit
+9,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,27.85,0.2,0.0537,3,High,Low Stock,Profit
+10,Neither Here nor There: Travels in Europe,38.95,37.0,-0.05,0.0175,3,Low,Low Stock,Loss
+11,"1,000 Places to See Before You Die",26.08,27.38,0.05,0.0247,1,Medium,Low Stock,Profit
+12,Sharp Objects,47.82,45.43,-0.05,0.0154,20,Low,Medium Stock,Loss
+13,"In a Dark, Dark Wood",19.63,18.65,-0.05,0.0189,18,Low,Medium Stock,Loss
+14,The Past Never Ends,56.5,56.5,0.0,0.0457,16,Medium,Medium Stock,Neutral
+15,A Murder in Time,16.64,16.64,0.0,0.048,16,Medium,Medium Stock,Neutral
+16,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,44.1,0.0,0.0252,15,Medium,Medium Stock,Neutral
+17,The Last Mile (Amos Decker #2),54.21,51.5,-0.05,0.0101,14,Low,Medium Stock,Loss
+18,That Darkness (Gardiner and Renner #1),13.92,13.92,0.0,0.0294,14,Medium,Medium Stock,Neutral
+19,Tastes Like Fear (DI Marnie Rome #3),10.69,10.16,-0.05,0.0142,14,Low,Medium Stock,Loss
+20,A Time of Torment (Charlie Parker #14),48.35,48.35,0.0,0.0386,14,Medium,Medium Stock,Neutral
+21,A Study in Scarlet (Sherlock Holmes #1),16.73,16.73,0.0,0.0452,14,Medium,Medium Stock,Neutral
+22,Poisonous (Max Revere Novels #3),26.8,25.46,-0.05,0.0193,12,Low,Medium Stock,Loss
+23,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,54.36,0.0,0.0471,12,Medium,Medium Stock,Neutral
+24,Most Wanted,35.28,33.52,-0.05,0.0,12,Low,Medium Stock,Loss
+25,Hide Away (Eve Duncan #20),11.84,11.84,0.0,0.0372,12,Medium,Medium Stock,Neutral
+26,Boar Island (Anna Pigeon #19),59.48,59.48,0.0,0.0393,12,Medium,Medium Stock,Neutral
+27,The Widow,27.26,29.99,0.1,0.0501,11,High,Medium Stock,Profit
+28,Playing with Fire,13.71,13.02,-0.05,0.012,11,Low,Medium Stock,Loss
+29,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,24.1,-0.05,0.0151,7,Low,Low Stock,Loss
+30,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,54.92,0.05,0.0256,7,Medium,Low Stock,Profit
+31,Delivering the Truth (Quaker Midwife Mystery #1),20.89,21.93,0.05,0.0291,7,Medium,Low Stock,Profit
+32,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,26.04,0.05,0.0464,6,Medium,Low Stock,Profit
+33,In the Woods (Dublin Murder Squad #1),38.38,36.46,-0.05,0.0124,6,Low,Low Stock,Loss
+34,The Silkworm (Cormoran Strike #2),23.05,24.2,0.05,0.0261,3,Medium,Low Stock,Profit
+35,The Exiled,43.45,41.28,-0.05,0.0196,3,Low,Low Stock,Loss
+36,The Cuckoo's Calling (Cormoran Strike #1),19.21,18.25,-0.05,0.0032,3,Low,Low Stock,Loss
+37,Extreme Prey (Lucas Davenport #26),25.4,24.13,-0.05,0.012,3,Low,Low Stock,Loss
+38,Career of Evil (Cormoran Strike #3),24.72,25.96,0.05,0.0331,3,Medium,Low Stock,Profit
+39,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,69.24,0.2,0.1384,1,High,Low Stock,Profit
+40,The Girl You Lost,12.29,12.9,0.05,0.0286,1,Medium,Low Stock,Profit
+41,The Girl In The Ice (DCI Erika Foster #1),15.85,16.64,0.05,0.0206,1,Medium,Low Stock,Profit
+42,Blood Defense (Samantha Brinkman #1),20.3,21.32,0.05,0.0314,1,Medium,Low Stock,Profit
+43,1st to Die (Women's Murder Club #1),53.98,56.68,0.05,0.0298,1,Medium,Low Stock,Profit
+44,Tipping the Velvet,53.74,53.74,0.0,0.043,20,Medium,Medium Stock,Neutral
+45,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,29.69,0.0,0.0365,16,Medium,Medium Stock,Neutral
+46,A Flight of Arrows (The Pathfinders #2),55.53,52.75,-0.05,0.0087,16,Low,Medium Stock,Loss
+47,The House by the Lake,36.95,36.95,0.0,0.0251,15,Medium,Medium Stock,Neutral
+48,Mrs. Houdini,30.25,30.25,0.0,0.0214,15,Medium,Medium Stock,Neutral
+49,The Marriage of Opposites,28.08,26.68,-0.05,0.0183,14,Low,Medium Stock,Loss
+50,Glory over Everything: Beyond The Kitchen House,45.84,43.55,-0.05,0.0155,14,Low,Medium Stock,Loss
+51,"Love, Lies and Spies",20.55,19.52,-0.05,0.0,12,Low,Medium Stock,Loss
+52,A Paris Apartment,39.01,39.01,0.0,0.0283,12,Medium,Medium Stock,Neutral
+53,Lilac Girls,17.28,17.28,0.0,0.034,11,Medium,Medium Stock,Neutral
+54,The Constant Princess (The Tudor Court #1),16.62,19.94,0.2,0.052,7,High,Low Stock,Profit
+55,The Invention of Wings,37.34,39.21,0.05,0.0233,6,Medium,Low Stock,Profit
+56,World Without End (The Pillars of the Earth #2),32.97,34.62,0.05,0.0402,5,Medium,Low Stock,Profit
+57,The Passion of Dolssa,28.32,26.9,-0.05,0.0111,4,Low,Low Stock,Loss
+58,Girl With a Pearl Earring,26.77,25.43,-0.05,0.0196,4,Low,Low Stock,Loss
+59,Voyager (Outlander #3),21.07,20.02,-0.05,0.0171,3,Low,Low Stock,Loss
+60,The Red Tent,35.66,33.88,-0.05,0.0133,3,Low,Low Stock,Loss
+61,The Last Painting of Sara de Vos,55.55,58.33,0.05,0.0204,3,Medium,Low Stock,Profit
+62,The Guernsey Literary and Potato Peel Pie Society,49.53,52.01,0.05,0.0311,3,Medium,Low Stock,Profit
+63,Girl in the Blue Coat,46.83,49.17,0.05,0.0446,3,Medium,Low Stock,Profit
+64,Between Shades of Gray,20.79,21.83,0.05,0.0387,3,Medium,Low Stock,Profit
+65,While You Were Mine,41.32,43.39,0.05,0.0234,1,Medium,Low Stock,Profit
+66,The Secret Healer,34.56,32.83,-0.05,0.0147,1,Low,Low Stock,Loss
+67,Starlark,25.83,27.12,0.05,0.0283,1,Medium,Low Stock,Profit
+68,Lost Among the Living,27.7,29.08,0.05,0.0296,1,Medium,Low Stock,Profit
+69,A Spy's Devotion (The Regency Spies of London #1),16.97,20.36,0.2,0.0571,1,High,Low Stock,Profit
+70,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,49.68,-0.05,0.01,19,Low,Medium Stock,Loss
+71,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,16.28,0.0,0.0439,16,Medium,Medium Stock,Neutral
+72,This One Summer,19.49,18.52,-0.05,0.0058,16,Low,Medium Stock,Loss
+73,The Nameless City (The Nameless City #1),38.16,36.25,-0.05,0.0154,16,Low,Medium Stock,Loss
+74,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,51.04,0.0,0.0239,16,Medium,Medium Stock,Neutral
+75,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,47.88,-0.05,0.0136,16,Low,Medium Stock,Loss
+76,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,13.61,0.0,0.0238,16,Medium,Medium Stock,Neutral
+77,"Pop Gun War, Volume 1: Gift",18.97,18.02,-0.05,0.006,16,Low,Medium Stock,Loss
+78,Patience,10.16,10.16,0.0,0.0203,16,Medium,Medium Stock,Neutral
+79,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,14.67,-0.05,0.0184,16,Low,Medium Stock,Loss
+80,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,53.25,0.1,0.1033,16,High,Medium Stock,Profit
+81,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,51.6,0.1,0.0539,16,High,Medium Stock,Profit
+82,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,50.17,0.1,0.0609,16,High,Medium Stock,Profit
+83,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,18.92,-0.05,0.0086,16,Low,Medium Stock,Loss
+84,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,32.09,0.1,0.0963,16,High,Medium Stock,Profit
+85,I am a Hero Omnibus Volume 1,54.63,54.63,0.0,0.0213,16,Medium,Medium Stock,Neutral
+86,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,22.11,0.0,0.0406,16,Medium,Medium Stock,Neutral
+87,Danganronpa Volume 1,51.99,57.19,0.1,0.1258,16,High,Medium Stock,Profit
+88,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,36.72,0.0,0.0242,16,Medium,Medium Stock,Neutral
+89,Camp Midnight,17.08,17.08,0.0,0.0473,16,Medium,Medium Stock,Neutral
+90,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,37.92,0.0,0.0415,16,Medium,Medium Stock,Neutral
+91,The Shadow Hero (The Shadow Hero),33.14,31.48,-0.05,0.0192,15,Low,Medium Stock,Loss
+92,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,39.54,-0.05,0.018,15,Low,Medium Stock,Loss
+93,Batman: The Long Halloween (Batman),36.5,36.5,0.0,0.0339,15,Medium,Medium Stock,Neutral
+94,Batman: The Dark Knight Returns (Batman),15.38,14.61,-0.05,0.0139,15,Low,Medium Stock,Loss
+95,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,37.34,0.0,0.0231,14,Medium,Medium Stock,Neutral
+96,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,53.9,0.0,0.044,14,Medium,Medium Stock,Neutral
+97,Through the Woods,25.38,25.38,0.0,0.0277,14,Medium,Medium Stock,Neutral
+98,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,11.89,0.0,0.0269,14,Medium,Medium Stock,Neutral
+99,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,33.66,-0.05,0.0187,14,Low,Medium Stock,Loss
+100,Robin War,47.82,47.82,0.0,0.0319,14,Medium,Medium Stock,Neutral
+101,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,25.48,0.0,0.0427,14,Medium,Medium Stock,Neutral
+102,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,36.47,-0.05,0.0142,14,Low,Medium Stock,Loss
+103,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,51.51,0.0,0.0499,14,Medium,Medium Stock,Neutral
+104,El Deafo,57.62,57.62,0.0,0.0247,14,Medium,Medium Stock,Neutral
+105,Batman: Europa,32.01,30.41,-0.05,0.008,14,Low,Medium Stock,Loss
+106,Art Ops Vol. 1,48.8,48.8,0.0,0.0246,14,Medium,Medium Stock,Neutral
+107,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,10.36,-0.05,0.0161,14,Low,Medium Stock,Loss
+108,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,32.25,-0.05,0.0071,9,Low,Low Stock,Loss
+109,Roller Girl,14.1,13.4,-0.05,0.016,8,Low,Low Stock,Loss
+110,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,20.55,0.05,0.0386,7,Medium,Low Stock,Profit
+111,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,22.01,0.05,0.0398,6,Medium,Low Stock,Profit
+112,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,43.67,0.2,0.0662,6,High,Low Stock,Profit
+113,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,17.15,0.05,0.0436,5,Medium,Low Stock,Profit
+114,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,62.89,0.2,0.0816,5,High,Low Stock,Profit
+115,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,26.49,-0.05,0.0141,4,Low,Low Stock,Loss
+116,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,47.92,-0.05,0.0152,4,Low,Low Stock,Loss
+117,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,15.13,0.05,0.0421,3,Medium,Low Stock,Profit
+118,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,58.33,0.05,0.0242,3,Medium,Low Stock,Profit
+119,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,22.65,0.05,0.0265,3,Medium,Low Stock,Profit
+120,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,41.45,-0.05,0.0177,3,Low,Low Stock,Loss
+121,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,41.09,0.05,0.0316,3,Medium,Low Stock,Profit
+122,Original Fake,31.45,33.02,0.05,0.0336,3,Medium,Low Stock,Profit
+123,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,44.86,0.05,0.0347,3,Medium,Low Stock,Profit
+124,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,47.43,0.05,0.0411,3,Medium,Low Stock,Profit
+125,"Black Butler, Vol. 1 (Black Butler #1)",49.31,46.84,-0.05,0.0,3,Low,Low Stock,Loss
+126,Awkward,38.02,39.92,0.05,0.0335,3,Medium,Low Stock,Profit
+127,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,57.55,0.05,0.0212,2,Medium,Low Stock,Profit
+128,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,12.34,0.05,0.023,2,Medium,Low Stock,Profit
+129,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,12.22,0.05,0.0409,2,Medium,Low Stock,Profit
+130,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,17.58,-0.05,0.0,1,Low,Low Stock,Loss
+131,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,43.82,0.2,0.0711,1,High,Low Stock,Profit
+132,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,56.83,0.05,0.0315,1,Medium,Low Stock,Profit
+133,The Complete Maus (Maus #1-2),10.64,12.77,0.2,0.0511,1,High,Low Stock,Profit
+134,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,44.23,0.05,0.0316,1,Medium,Low Stock,Profit
+135,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,29.9,0.05,0.0214,1,Medium,Low Stock,Profit
+136,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,49.31,0.05,0.0266,1,Medium,Low Stock,Profit
+137,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,20.62,-0.05,0.0136,1,Low,Low Stock,Loss
+138,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,35.84,0.2,0.061,1,High,Low Stock,Profit
+139,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,41.36,0.05,0.0218,1,Medium,Low Stock,Profit
+140,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,42.98,-0.05,0.0066,1,Low,Low Stock,Loss
+141,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,59.6,0.05,0.0404,1,Medium,Low Stock,Profit
+142,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,38.27,-0.05,0.0141,1,Low,Low Stock,Loss
+143,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,32.92,-0.05,0.0137,1,Low,Low Stock,Loss
+144,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,68.47,0.2,0.056,1,High,Low Stock,Profit
+145,The Secret Garden,15.08,15.83,0.05,0.0263,5,Medium,Low Stock,Profit
+146,The Metamorphosis,28.58,27.15,-0.05,0.0,5,Low,Low Stock,Loss
+147,The Pilgrim's Progress,50.26,47.75,-0.05,0.0,4,Low,Low Stock,Loss
+148,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,14.08,-0.05,0.0035,4,Low,Low Stock,Loss
+149,Little Women (Little Women #1),28.07,33.68,0.2,0.0759,4,High,Low Stock,Profit
+150,Gone with the Wind,32.49,34.11,0.05,0.0295,4,Medium,Low Stock,Profit
+151,Candide,58.63,61.56,0.05,0.0299,4,Medium,Low Stock,Profit
+152,Animal Farm,57.22,54.36,-0.05,0.0197,4,Low,Low Stock,Loss
+153,Wuthering Heights,17.73,16.84,-0.05,0.0,3,Low,Low Stock,Loss
+154,The Picture of Dorian Gray,29.7,28.22,-0.05,0.0165,3,Low,Low Stock,Loss
+155,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,28.12,0.05,0.0433,3,Medium,Low Stock,Profit
+156,Beowulf,38.35,40.27,0.05,0.0273,3,Medium,Low Stock,Profit
+157,And Then There Were None,35.01,36.76,0.05,0.0302,3,Medium,Low Stock,Profit
+158,The Story of Hong Gildong,43.19,45.35,0.05,0.0228,1,Medium,Low Stock,Profit
+159,The Little Prince,45.42,43.15,-0.05,0.0192,1,Low,Low Stock,Loss
+160,Sense and Sensibility,37.46,44.95,0.2,0.0526,1,High,Low Stock,Profit
+161,Of Mice and Men,47.11,56.53,0.2,0.0567,1,High,Low Stock,Profit
+162,Emma,32.93,31.28,-0.05,0.0139,1,Low,Low Stock,Loss
+163,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,52.75,-0.05,0.0,1,Low,Low Stock,Loss
+164,Sophie's World,15.94,15.94,0.0,0.0259,18,Medium,Medium Stock,Neutral
+165,The Death of Humanity: and the Case for Life,58.11,63.92,0.1,0.067,16,High,Medium Stock,Profit
+166,The Stranger,17.44,17.44,0.0,0.0294,15,Medium,Medium Stock,Neutral
+167,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,56.92,0.05,0.0387,8,Medium,Low Stock,Profit
+168,Kierkegaard: A Christian Missionary to Christians,47.13,49.49,0.05,0.0239,8,Medium,Low Stock,Profit
+169,"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,31.43,0.05,0.0275,7,Medium,Low Stock,Profit
+170,Critique of Pure Reason,20.75,19.71,-0.05,0.0096,5,Low,Low Stock,Loss
+171,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,21.02,0.05,0.0298,2,Medium,Low Stock,Profit
+172,The Nicomachean Ethics,36.34,38.16,0.05,0.0407,1,Medium,Low Stock,Profit
+173,Meditations,25.89,24.6,-0.05,0.0,1,Low,Low Stock,Loss
+174,Beyond Good and Evil,43.38,41.21,-0.05,0.0164,1,Low,Low Stock,Loss
+175,Chase Me (Paris Nights #2),25.27,25.27,0.0,0.0398,19,Medium,Medium Stock,Neutral
+176,Black Dust,34.53,34.53,0.0,0.0279,19,Medium,Medium Stock,Neutral
+177,Her Backup Boyfriend (The Sorensen Family #1),33.97,33.97,0.0,0.0424,16,Medium,Medium Stock,Neutral
+178,First and First (Five Boroughs #3),15.97,15.17,-0.05,0.0129,16,Low,Medium Stock,Loss
+179,Fifty Shades Darker (Fifty Shades #2),21.96,21.96,0.0,0.0309,16,Medium,Medium Stock,Neutral
+180,The Wedding Dress,24.12,24.12,0.0,0.0211,15,Medium,Medium Stock,Neutral
+181,Suddenly in Love (Lake Haven #1),55.99,55.99,0.0,0.045,15,Medium,Medium Stock,Neutral
+182,Something More Than This,16.24,15.43,-0.05,0.0178,15,Low,Medium Stock,Loss
+183,Doing It Over (Most Likely To #1),35.61,35.61,0.0,0.0399,15,Medium,Medium Stock,Neutral
+184,The Wedding Pact (The O'Malleys #2),32.61,30.98,-0.05,0.0064,14,Low,Medium Stock,Loss
+185,Hold Your Breath (Search and Rescue #1),28.82,28.82,0.0,0.0497,14,Medium,Medium Stock,Neutral
+186,Dirty (Dive Bar #1),40.83,40.83,0.0,0.0275,12,Medium,Medium Stock,Neutral
+187,Take Me Home Tonight (Rock Star Romance #3),53.98,53.98,0.0,0.0252,11,Medium,Medium Stock,Neutral
+188,Off the Hook (Fishing for Trouble #1),47.67,47.67,0.0,0.0258,11,Medium,Medium Stock,Neutral
+189,A Gentleman's Position (Society of Gentlemen #3),14.75,16.23,0.1,0.0558,11,High,Medium Stock,Profit
+190,"Sit, Stay, Love",20.9,21.94,0.05,0.0475,7,Medium,Low Stock,Profit
+191,A Girl's Guide to Moving On (New Beginnings #2),31.3,32.86,0.05,0.0444,5,Medium,Low Stock,Profit
+192,The Perfect Play (Play by Play #1),59.99,62.99,0.05,0.0313,4,Medium,Low Stock,Profit
+193,Dark Lover (Black Dagger Brotherhood #1),12.87,13.51,0.05,0.0304,4,Medium,Low Stock,Profit
+194,Changing the Game (Play by Play #2),13.38,14.05,0.05,0.0317,4,Medium,Low Stock,Profit
+195,A Walk to Remember,56.43,53.61,-0.05,0.0122,4,Low,Low Stock,Loss
+196,The Purest Hook (Second Circle Tattoos #3),12.25,12.86,0.05,0.0326,3,Medium,Low Stock,Profit
+197,The Obsession,45.43,47.7,0.05,0.0239,3,Medium,Low Stock,Profit
+198,Reservations for Two,11.1,10.54,-0.05,0.019,3,Low,Low Stock,Loss
+199,Best of My Love (Fool's Gold #20),27.41,32.89,0.2,0.131,3,High,Low Stock,Profit
+200,Where Lightning Strikes (Bleeding Stars #3),39.77,41.76,0.05,0.0321,1,Medium,Low Stock,Profit
+201,This One Moment (Pushing Limits #1),48.71,51.15,0.05,0.0222,1,Medium,Low Stock,Profit
+202,"Rhythm, Chord & Malykhin",28.34,29.76,0.05,0.0286,1,Medium,Low Stock,Profit
+203,My Perfect Mistake (Over the Top #1),38.92,40.87,0.05,0.0232,1,Medium,Low Stock,Profit
+204,Listen to Me (Fusion #1),58.99,70.79,0.2,0.063,1,High,Low Stock,Profit
+205,Imperfect Harmony,34.74,36.48,0.05,0.0365,1,Medium,Low Stock,Profit
+206,Fighting Fate (Fighting #6),39.24,41.2,0.05,0.0258,1,Medium,Low Stock,Profit
+207,Deep Under (Walker Security #1),47.09,49.44,0.05,0.0245,1,Medium,Low Stock,Profit
+208,Charity's Cross (Charles Towne Belles #4),41.24,43.3,0.05,0.0245,1,Medium,Low Stock,Profit
+209,Bounty (Colorado Mountain #7),37.26,39.12,0.05,0.0335,1,Medium,Low Stock,Profit
+210,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,63.1,0.1,0.0599,15,High,Medium Stock,Profit
+211,Will You Won't You Want Me?,13.86,13.86,0.0,0.0451,12,Medium,Medium Stock,Neutral
+212,Keep Me Posted,20.46,22.51,0.1,0.059,11,High,Medium Stock,Profit
+213,Grey (Fifty Shades #4),48.49,48.49,0.0,0.0473,11,Medium,Medium Stock,Neutral
+214,Meternity,43.58,45.76,0.05,0.0351,7,Medium,Low Stock,Profit
+215,Some Women,13.73,14.42,0.05,0.043,4,Medium,Low Stock,Profit
+216,Shopaholic Ties the Knot (Shopaholic #3),48.39,58.07,0.2,0.0603,4,High,Low Stock,Profit
+217,Can You Keep a Secret?,21.94,23.04,0.05,0.0314,4,Medium,Low Stock,Profit
+218,Twenties Girl,42.8,40.66,-0.05,0.0161,3,Low,Low Stock,Loss
+219,The Undomestic Goddess,45.75,48.04,0.05,0.0464,3,Medium,Low Stock,Profit
+220,The Nanny Diaries (Nanny #1),52.53,55.16,0.05,0.0262,3,Medium,Low Stock,Profit
+221,The Devil Wears Prada (The Devil Wears Prada #1),44.29,46.5,0.05,0.0405,3,Medium,Low Stock,Profit
+222,Something Borrowed (Darcy & Rachel #1),48.96,51.41,0.05,0.0343,3,Medium,Low Stock,Profit
+223,Something Blue (Darcy & Rachel #2),54.62,57.35,0.05,0.0264,3,Medium,Low Stock,Profit
+224,I've Got Your Number,19.69,20.67,0.05,0.0218,3,Medium,Low Stock,Profit
+225,The Edge of Reason (Bridget Jones #2),19.18,20.14,0.05,0.0289,1,Medium,Low Stock,Profit
+226,Bridget Jones's Diary (Bridget Jones #1),29.82,28.33,-0.05,0.0142,1,Low,Low Stock,Loss
+227,Soumission,50.1,47.6,-0.05,0.0,20,Low,Medium Stock,Loss
+228,Private Paris (Private #10),47.61,47.61,0.0,0.0269,17,Medium,Medium Stock,Neutral
+229,"We Love You, Charlie Freeman",50.27,50.27,0.0,0.0369,16,Medium,Medium Stock,Neutral
+230,Thirst,17.27,16.41,-0.05,0.0198,16,Low,Medium Stock,Loss
+231,The Murder That Never Was (Forensic Instincts #5),54.11,54.11,0.0,0.0274,16,Medium,Medium Stock,Neutral
+232,Tuesday Nights in 1980,21.04,21.04,0.0,0.0318,15,Medium,Medium Stock,Neutral
+233,The Vacationers,42.15,46.36,0.1,0.0856,15,High,Medium Stock,Profit
+234,The Regional Office Is Under Attack!,51.36,56.5,0.1,0.0545,15,High,Medium Stock,Profit
+235,Finders Keepers (Bill Hodges Trilogy #2),53.53,53.53,0.0,0.0244,15,Medium,Medium Stock,Neutral
+236,The Time Keeper,27.88,27.88,0.0,0.0326,14,Medium,Medium Stock,Neutral
+237,The Testament of Mary,52.67,50.04,-0.05,0.0167,14,Low,Medium Stock,Loss
+238,The First Hostage (J.B. Collins #2),25.85,25.85,0.0,0.0207,14,Medium,Medium Stock,Neutral
+239,Take Me with You,45.21,49.73,0.1,0.0562,14,High,Medium Stock,Profit
+240,Still Life with Bread Crumbs,26.41,26.41,0.0,0.0287,14,Medium,Medium Stock,Neutral
+241,Shtum,55.84,55.84,0.0,0.0451,14,Medium,Medium Stock,Neutral
+242,My Name Is Lucy Barton,41.56,39.48,-0.05,0.0059,14,Low,Medium Stock,Loss
+243,My Mrs. Brown,24.48,24.48,0.0,0.021,14,Medium,Medium Stock,Neutral
+244,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,27.46,-0.05,0.0158,14,Low,Medium Stock,Loss
+245,I Am Pilgrim (Pilgrim #1),10.6,11.66,0.1,0.0567,14,High,Medium Stock,Profit
+246,Eligible (The Austen Project #4),27.09,27.09,0.0,0.0419,14,Medium,Medium Stock,Neutral
+247,Eight Hundred Grapes,14.39,15.83,0.1,0.0591,14,High,Medium Stock,Profit
+248,Dear Mr. Knightley,11.21,11.21,0.0,0.027,14,Medium,Medium Stock,Neutral
+249,Cometh the Hour (The Clifton Chronicles #6),25.01,25.01,0.0,0.0225,14,Medium,Medium Stock,Neutral
+250,Balloon Animals,17.03,16.18,-0.05,0.012,14,Low,Medium Stock,Loss
+251,A Man Called Ove,39.72,37.73,-0.05,0.0181,14,Low,Medium Stock,Loss
+252,The Silent Sister (Riley MacPherson #1),46.29,46.29,0.0,0.0236,12,Medium,Medium Stock,Neutral
+253,The Dinner Party,56.54,56.54,0.0,0.0205,12,Medium,Medium Stock,Neutral
+254,The Improbability of Love,59.45,56.48,-0.05,0.0171,11,Low,Medium Stock,Loss
+255,Mothering Sunday,13.34,13.34,0.0,0.0342,11,Medium,Medium Stock,Neutral
+256,Lies and Other Acts of Love,45.14,42.88,-0.05,0.0162,11,Low,Medium Stock,Loss
+257,Daredevils,16.34,16.34,0.0,0.0288,11,Medium,Medium Stock,Neutral
+258,11/22/63,48.48,48.48,0.0,0.0297,11,Medium,Medium Stock,Neutral
+259,The Shack,28.03,26.63,-0.05,0.0109,9,Low,Low Stock,Loss
+260,The High Mountains of Portugal,51.15,48.59,-0.05,0.0,8,Low,Low Stock,Loss
+261,Miller's Valley,58.54,55.61,-0.05,0.0129,8,Low,Low Stock,Loss
+262,Hystopia: A Novel,21.96,23.06,0.05,0.036,8,Medium,Low Stock,Profit
+263,The Bourne Identity (Jason Bourne #1),42.78,44.92,0.05,0.0313,7,Medium,Low Stock,Profit
+264,Sister Dear,40.2,42.21,0.05,0.0227,7,Medium,Low Stock,Profit
+265,Memoirs of a Geisha,49.67,47.19,-0.05,0.0199,7,Low,Low Stock,Loss
+266,Me Before You (Me Before You #1),19.02,18.07,-0.05,0.0143,6,Low,Low Stock,Loss
+267,Deception Point,40.32,48.38,0.2,0.0664,6,High,Low Stock,Profit
+268,The Little Paris Bookshop,24.73,25.97,0.05,0.0487,5,Medium,Low Stock,Profit
+269,The Firm,45.56,47.84,0.05,0.0332,5,Medium,Low Stock,Profit
+270,The Expatriates,44.58,46.81,0.05,0.0465,5,Medium,Low Stock,Profit
+271,Siddhartha,34.22,41.06,0.2,0.1377,5,High,Low Stock,Profit
+272,Last One Home (New Beginnings #1),59.98,56.98,-0.05,0.0125,5,Low,Low Stock,Loss
+273,Digital Fortress,58.0,69.6,0.2,0.1062,5,High,Low Stock,Profit
+274,Atlas Shrugged,26.58,25.25,-0.05,0.0171,4,Low,Low Stock,Loss
+275,Three-Martini Lunch,23.21,24.37,0.05,0.032,3,Medium,Low Stock,Profit
+276,The Nightingale,26.26,24.95,-0.05,0.0197,3,Low,Low Stock,Loss
+277,The Infinities,27.41,26.04,-0.05,0.0157,3,Low,Low Stock,Loss
+278,The Husband's Secret,52.51,63.01,0.2,0.137,3,High,Low Stock,Profit
+279,The Da Vinci Code (Robert Langdon #2),22.96,27.55,0.2,0.08,3,High,Low Stock,Profit
+280,The Art of Fielding,22.1,21.0,-0.05,0.0095,3,Low,Low Stock,Loss
+281,Lila (Gilead #3),12.47,11.85,-0.05,0.0087,3,Low,Low Stock,Loss
+282,Jurassic Park (Jurassic Park #1),44.97,47.22,0.05,0.0343,3,Medium,Low Stock,Profit
+283,Inferno (Robert Langdon #4),41.0,43.05,0.05,0.0299,3,Medium,Low Stock,Profit
+284,Crazy Rich Asians (Crazy Rich Asians #1),49.13,46.67,-0.05,0.0149,3,Low,Low Stock,Loss
+285,Big Little Lies,22.11,21.0,-0.05,0.015,3,Low,Low Stock,Loss
+286,The Course of Love,16.78,17.62,0.05,0.0286,2,Medium,Low Stock,Profit
+287,When I'm Gone,51.96,54.56,0.05,0.0243,1,Medium,Low Stock,Profit
+288,The Silent Wife,12.34,12.96,0.05,0.0479,1,Medium,Low Stock,Profit
+289,The Bette Davis Club,30.66,29.13,-0.05,0.0196,1,Low,Low Stock,Loss
+290,Kitchens of the Great Midwest,57.2,60.06,0.05,0.0332,1,Medium,Low Stock,Profit
+291,Bright Lines,39.07,37.12,-0.05,0.0181,1,Low,Low Stock,Loss
+292,Birdsong: A Story in Pictures,54.64,54.64,0.0,0.0341,19,Medium,Medium Stock,Neutral
+293,The Bear and the Piano,36.89,36.89,0.0,0.0258,18,Medium,Medium Stock,Neutral
+294,The Secret of Dreadwillow Carse,56.13,53.32,-0.05,0.0113,16,Low,Medium Stock,Loss
+295,The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,58.08,55.18,-0.05,0.0034,15,Low,Medium Stock,Loss
+296,Little Red,13.47,12.8,-0.05,0.0,15,Low,Medium Stock,Loss
+297,Walt Disney's Alice in Wonderland,12.96,12.31,-0.05,0.0067,14,Low,Medium Stock,Loss
+298,Twenty Yawns,22.08,20.98,-0.05,0.0163,14,Low,Medium Stock,Loss
+299,Rain Fish,23.57,25.93,0.1,0.0653,14,High,Medium Stock,Profit
+300,Once Was a Time,18.28,18.28,0.0,0.0362,14,Medium,Medium Stock,Neutral
+301,Luis Paints the World,53.95,51.25,-0.05,0.0178,14,Low,Medium Stock,Loss
+302,Nap-a-Roo,25.08,23.83,-0.05,0.0073,9,Low,Low Stock,Loss
+303,The Whale,35.96,37.76,0.05,0.0207,7,Medium,Low Stock,Profit
+304,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,50.23,-0.05,0.0079,7,Low,Low Stock,Loss
+305,Raymie Nightingale,34.41,36.13,0.05,0.0255,7,Medium,Low Stock,Profit
+306,Playing from the Heart,32.38,38.86,0.2,0.0598,7,High,Low Stock,Profit
+307,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,27.05,0.2,0.0601,5,High,Low Stock,Profit
+308,The Wild Robot,56.07,67.28,0.2,0.0659,3,High,Low Stock,Profit
+309,The Thing About Jellyfish,48.77,58.52,0.2,0.0562,3,High,Low Stock,Profit
+310,The Lonely Ones,43.59,41.41,-0.05,0.0191,3,Low,Low Stock,Loss
+311,The Day the Crayons Came Home (Crayons),26.33,31.6,0.2,0.0507,3,High,Low Stock,Profit
+312,The Cat in the Hat (Beginner Books B-1),16.26,19.51,0.2,0.0594,3,High,Low Stock,Profit
+313,Red: The True Story of Red Riding Hood,28.54,27.11,-0.05,0.0172,3,Low,Low Stock,Loss
+314,Horrible Bear!,37.52,39.4,0.05,0.0215,3,Medium,Low Stock,Profit
+315,Green Eggs and Ham (Beginner Books B-16),10.79,12.95,0.2,0.0582,3,High,Low Stock,Profit
+316,Counting Thyme,10.62,11.15,0.05,0.0273,3,Medium,Low Stock,Profit
+317,Are We There Yet?,10.66,11.19,0.05,0.0433,3,Medium,Low Stock,Profit
+318,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,50.24,-0.05,0.0072,2,Low,Low Stock,Loss
+319,Matilda,28.34,26.92,-0.05,0.0196,1,Low,Low Stock,Loss
+320,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,23.99,0.05,0.0409,1,Medium,Low Stock,Profit
+321,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,37.97,0.0,0.0277,16,Medium,Medium Stock,Neutral
+322,You Are What You Love: The Spiritual Power of Habit,21.87,24.06,0.1,0.0567,15,High,Medium Stock,Profit
+323,God: The Most Unpleasant Character in All Fiction,30.03,28.53,-0.05,0.0071,14,Low,Medium Stock,Loss
+324,The Book of Mormon,24.57,23.34,-0.05,0.01,9,Low,Low Stock,Loss
+325,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,33.14,0.2,0.0538,4,High,Low Stock,Profit
+326,The Bhagavad Gita,57.49,68.99,0.2,0.0629,1,High,Low Stock,Profit
+327,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,27.0,-0.05,0.0149,1,Low,Low Stock,Loss
+328,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,40.3,44.33,0.1,0.0562,18,High,Medium Stock,Profit
+329,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,34.16,0.1,0.0894,18,High,Medium Stock,Profit
+330,Reasons to Stay Alive,26.41,29.05,0.1,0.0561,17,High,Medium Stock,Profit
+331,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,23.11,0.0,0.0423,17,Medium,Medium Stock,Neutral
+332,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,44.18,0.0,0.0303,16,Medium,Medium Stock,Neutral
+333,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,34.23,0.1,0.1865,16,High,Medium Stock,Profit
+334,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,15.93,-0.05,0.0185,16,Low,Medium Stock,Loss
+335,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,35.27,-0.05,0.0133,16,Low,Medium Stock,Loss
+336,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,53.26,-0.05,0.0032,16,Low,Medium Stock,Loss
+337,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,41.83,0.0,0.0234,16,Medium,Medium Stock,Neutral
+338,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,21.81,0.1,0.056,16,High,Medium Stock,Profit
+339,In the Country We Love: My Family Divided,22.0,22.0,0.0,0.0236,16,Medium,Medium Stock,Neutral
+340,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,59.78,0.1,0.2007,16,High,Medium Stock,Profit
+341,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,29.14,0.0,0.0473,16,Medium,Medium Stock,Neutral
+342,Algorithms to Live By: The Computer Science of Human Decisions,30.81,33.89,0.1,0.0958,16,High,Medium Stock,Profit
+343,The Power of Now: A Guide to Spiritual Enlightenment,43.54,43.54,0.0,0.0205,15,Medium,Medium Stock,Neutral
+344,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,38.21,0.0,0.0284,15,Medium,Medium Stock,Neutral
+345,The Genius of Birds,17.24,17.24,0.0,0.0256,15,Medium,Medium Stock,Neutral
+346,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,38.49,0.0,0.0356,15,Medium,Medium Stock,Neutral
+347,So You've Been Publicly Shamed,12.23,13.45,0.1,0.077,15,High,Medium Stock,Profit
+348,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,19.43,0.0,0.0417,15,Medium,Medium Stock,Neutral
+349,Big Magic: Creative Living Beyond Fear,30.8,30.8,0.0,0.0284,15,Medium,Medium Stock,Neutral
+350,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,27.43,0.0,0.0489,15,Medium,Medium Stock,Neutral
+351,Agnostic: A Spirited Manifesto,12.51,11.88,-0.05,0.0136,15,Low,Medium Stock,Loss
+352,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,42.02,0.1,0.0542,14,High,Medium Stock,Profit
+353,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,21.56,0.1,0.0799,14,High,Medium Stock,Profit
+354,The Year of Magical Thinking,43.04,43.04,0.0,0.031,14,Medium,Medium Stock,Neutral
+355,The Literature Book (Big Ideas Simply Explained),17.43,17.43,0.0,0.0392,14,Medium,Medium Stock,Neutral
+356,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts,15.77,15.77,0.0,0.0409,14,Medium,Medium Stock,Neutral
+357,Swell: A Year of Waves,45.58,43.3,-0.05,0.0185,14,Low,Medium Stock,Loss
+358,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,24.14,0.1,0.0596,14,High,Medium Stock,Profit
+359,Looking for Lovely: Collecting the Moments that Matter,29.14,29.14,0.0,0.0228,14,Medium,Medium Stock,Neutral
+360,Let It Out: A Journey Through Journaling,26.79,25.45,-0.05,0.0198,14,Low,Medium Stock,Loss
+361,Hamilton: The Revolution,58.79,55.85,-0.05,0.0181,14,Low,Medium Stock,Loss
+362,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,15.06,0.0,0.0373,14,Medium,Medium Stock,Neutral
+363,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,51.75,0.0,0.0324,14,Medium,Medium Stock,Neutral
+364,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,41.58,0.1,0.0627,14,High,Medium Stock,Profit
+365,Brain on Fire: My Month of Madness,49.32,49.32,0.0,0.0391,14,Medium,Medium Stock,Neutral
+366,Abstract City,56.37,62.01,0.1,0.088,14,High,Medium Stock,Profit
+367,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,25.71,-0.05,0.0136,13,Low,Medium Stock,Loss
+368,The Lonely City: Adventures in the Art of Being Alone,33.26,36.59,0.1,0.0622,12,High,Medium Stock,Profit
+369,The Diary of a Young Girl,59.9,65.89,0.1,0.0555,12,High,Medium Stock,Profit
+370,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,21.21,0.0,0.0442,12,Medium,Medium Stock,Neutral
+371,Furiously Happy: A Funny Book About Horrible Things,41.46,39.39,-0.05,0.009,12,Low,Medium Stock,Loss
+372,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,11.68,0.0,0.0278,11,Medium,Medium Stock,Neutral
+373,"Mother, Can You Not?",16.89,16.89,0.0,0.0279,11,Medium,Medium Stock,Neutral
+374,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,19.53,0.0,0.0289,11,Medium,Medium Stock,Neutral
+375,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,29.48,0.2,0.0721,10,High,Low Stock,Profit
+376,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,43.1,0.2,0.1597,9,High,Low Stock,Profit
+377,"Zero to One: Notes on Startups, or How to Build the Future",34.06,40.87,0.2,0.085,8,High,Low Stock,Profit
+378,Why Not Me?,17.76,18.65,0.05,0.0375,8,Medium,Low Stock,Profit
+379,When Breath Becomes Air,39.36,41.33,0.05,0.0356,8,Medium,Low Stock,Profit
+380,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,34.14,0.2,0.066,8,High,Low Stock,Profit
+381,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,46.67,0.2,0.1466,8,High,Low Stock,Profit
+382,Rising Strong,21.82,26.18,0.2,0.0585,8,High,Low Stock,Profit
+383,Man's Search for Meaning,29.48,28.01,-0.05,0.0172,8,Low,Low Stock,Loss
+384,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,26.31,0.05,0.0319,8,Medium,Low Stock,Profit
+385,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,13.18,0.05,0.0333,8,Medium,Low Stock,Profit
+386,I Will Find You,44.21,46.42,0.05,0.0431,8,Medium,Low Stock,Profit
+387,Brazen: The Courage to Find the You That's Been Hiding,19.22,20.18,0.05,0.0455,8,Medium,Low Stock,Profit
+388,Between the World and Me,56.91,68.29,0.2,0.0753,8,High,Low Stock,Profit
+389,Being Mortal: Medicine and What Matters in the End,55.06,57.81,0.05,0.0342,8,Medium,Low Stock,Profit
+390,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,13.86,0.05,0.0253,8,Medium,Low Stock,Profit
+391,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,54.16,0.2,0.0543,7,High,Low Stock,Profit
+392,Finding God in the Ruins: How God Redeems Pain,46.64,44.31,-0.05,0.0,7,Low,Low Stock,Loss
+393,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,62.42,0.05,0.0267,6,Medium,Low Stock,Profit
+394,In Cold Blood,49.98,47.48,-0.05,0.0096,6,Low,Low Stock,Loss
+395,"Girl, Interrupted",42.14,44.25,0.05,0.0347,6,Medium,Low Stock,Profit
+396,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,58.4,0.2,0.0754,5,High,Low Stock,Profit
+397,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,23.89,-0.05,0.015,5,Low,Low Stock,Loss
+398,My Mother Was Nuts,31.63,33.21,0.05,0.0239,5,Medium,Low Stock,Profit
+399,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,38.82,0.2,0.1227,5,High,Low Stock,Profit
+400,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,46.45,0.2,0.1674,4,High,Low Stock,Profit
+401,The Gunning of America: Business and the Making of American Gun Culture,16.81,17.65,0.05,0.0284,4,Medium,Low Stock,Profit
+402,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,29.64,0.05,0.0399,4,Medium,Low Stock,Profit
+403,God Is Not Great: How Religion Poisons Everything,27.8,26.41,-0.05,0.0187,4,Low,Low Stock,Loss
+404,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,33.55,0.05,0.0384,3,Medium,Low Stock,Profit
+405,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,60.79,0.2,0.0863,3,High,Low Stock,Profit
+406,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,60.99,0.05,0.0321,3,Medium,Low Stock,Profit
+407,Under the Banner of Heaven: A Story of Violent Faith,30.0,28.5,-0.05,0.0137,3,Low,Low Stock,Loss
+408,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,64.21,0.2,0.059,3,High,Low Stock,Profit
+409,The Name of God is Mercy,37.25,39.11,0.05,0.0383,3,Medium,Low Stock,Profit
+410,Stiff: The Curious Lives of Human Cadavers,36.74,34.9,-0.05,0.0176,3,Low,Low Stock,Loss
+411,Spilled Milk: Based on a True Story,49.51,59.41,0.2,0.1725,3,High,Low Stock,Profit
+412,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,50.0,0.2,0.0641,3,High,Low Stock,Profit
+413,Outliers: The Story of Success,14.16,13.45,-0.05,0.0188,3,Low,Low Stock,Loss
+414,Notes from a Small Island (Notes From a Small Island #1),40.17,48.2,0.2,0.0855,3,High,Low Stock,Profit
+415,Night (The Night Trilogy #1),13.51,16.21,0.2,0.0679,3,High,Low Stock,Profit
+416,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,60.72,0.05,0.04,3,Medium,Low Stock,Profit
+417,Letter to a Christian Nation,22.2,26.64,0.2,0.071,3,High,Low Stock,Profit
+418,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,42.85,-0.05,0.0154,3,Low,Low Stock,Loss
+419,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,50.86,0.2,0.0541,3,High,Low Stock,Profit
+420,Into the Wild,56.7,59.54,0.05,0.0211,3,Medium,Low Stock,Profit
+421,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,27.41,-0.05,0.0172,3,Low,Low Stock,Loss
+422,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,34.66,0.2,0.0663,3,High,Low Stock,Profit
+423,Gratitude,26.66,31.99,0.2,0.0556,3,High,Low Stock,Profit
+424,Disrupted: My Misadventure in the Start-Up Bubble,15.28,16.04,0.05,0.0332,3,Medium,Low Stock,Profit
+425,Brave Enough,51.32,53.89,0.05,0.0236,3,Medium,Low Stock,Profit
+426,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,28.72,0.05,0.0202,3,Medium,Low Stock,Profit
+427,Blink: The Power of Thinking Without Thinking,21.74,22.83,0.05,0.02,3,Medium,Low Stock,Profit
+428,Black Flags: The Rise of ISIS,40.87,42.91,0.05,0.0339,3,Medium,Low Stock,Profit
+429,Are We Smart Enough to Know How Smart Animals Are?,56.58,59.41,0.05,0.0432,3,Medium,Low Stock,Profit
+430,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,32.0,0.05,0.0259,3,Medium,Low Stock,Profit
+431,"The Suffragettes (Little Black Classics, #96)",11.89,14.27,0.2,0.0508,2,High,Low Stock,Profit
+432,Kindle Paperwhite User's Guide,34.0,40.8,0.2,0.0767,2,High,Low Stock,Profit
+433,H is for Hawk,57.42,60.29,0.05,0.0378,2,Medium,Low Stock,Profit
+434,Travels with Charley: In Search of America,57.82,60.71,0.05,0.0345,1,Medium,Low Stock,Profit
+435,The Tumor,41.56,43.64,0.05,0.0299,1,Medium,Low Stock,Profit
+436,The End of the Jesus Era (An Investigation #1),14.4,13.68,-0.05,0.0102,1,Low,Low Stock,Loss
+437,"Eat, Pray, Love",51.32,53.89,0.05,0.03,1,Medium,Low Stock,Profit
+438,Rip it Up and Start Again,35.02,35.02,0.0,0.0491,19,Medium,Medium Stock,Neutral
+439,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,62.98,0.1,0.0664,19,High,Medium Stock,Profit
+440,How Music Works,37.32,37.32,0.0,0.0391,19,Medium,Medium Stock,Neutral
+441,Love Is a Mix Tape (Music #1),18.03,18.03,0.0,0.0283,14,Medium,Medium Stock,Neutral
+442,Please Kill Me: The Uncensored Oral History of Punk,31.19,32.75,0.05,0.0395,8,Medium,Low Stock,Profit
+443,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,42.8,-0.05,0.0198,8,Low,Low Stock,Loss
+444,"Chronicles, Vol. 1",52.6,55.23,0.05,0.0281,7,Medium,Low Stock,Profit
+445,This Is Your Brain on Music: The Science of a Human Obsession,38.4,36.48,-0.05,0.0198,5,Low,Low Stock,Loss
+446,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,12.98,0.05,0.0434,4,Medium,Low Stock,Profit
+447,No One Here Gets Out Alive,20.02,19.02,-0.05,0.0166,4,Low,Low Stock,Loss
+448,Life,31.58,33.16,0.05,0.0222,2,Medium,Low Stock,Profit
+449,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,58.44,0.05,0.0222,1,Medium,Low Stock,Profit
+450,Forever Rockers (The Rocker #12),28.8,27.36,-0.05,0.0104,1,Low,Low Stock,Loss
+451,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,17.93,0.0,0.0287,19,Medium,Medium Stock,Neutral
+452,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,22.6,0.0,0.0295,19,Medium,Medium Stock,Neutral
+453,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,13.99,0.0,0.0224,19,Medium,Medium Stock,Neutral
+454,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,21.38,-0.05,0.0052,19,Low,Medium Stock,Loss
+455,Aladdin and His Wonderful Lamp,53.13,53.13,0.0,0.0228,19,Medium,Medium Stock,Neutral
+456,Penny Maybe,33.29,36.62,0.1,0.0559,18,High,Medium Stock,Profit
+457,Maude (1883-1993):She Grew Up with the country,18.02,18.02,0.0,0.0296,18,Medium,Medium Stock,Neutral
+458,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,22.65,0.1,0.0634,16,High,Medium Stock,Profit
+459,Soul Reader,39.58,37.6,-0.05,0.0,16,Low,Medium Stock,Loss
+460,Bossypants,49.46,54.41,0.1,0.05,16,High,Medium Stock,Profit
+461,A World of Flavor: Your Gluten Free Passport,42.95,47.24,0.1,0.064,16,High,Medium Stock,Profit
+462,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,56.76,0.0,0.0218,16,Medium,Medium Stock,Neutral
+463,Tracing Numbers on a Train,41.6,45.76,0.1,0.0585,15,High,Medium Stock,Profit
+464,Thirteen Reasons Why,52.72,52.72,0.0,0.0299,15,Medium,Medium Stock,Neutral
+465,The Secret (The Secret #1),27.37,30.11,0.1,0.0915,15,High,Medium Stock,Profit
+466,The Psychopath Test: A Journey Through the Madness Industry,36.0,39.6,0.1,0.052,15,High,Medium Stock,Profit
+467,The Kite Runner,41.82,39.73,-0.05,0.0172,15,Low,Medium Stock,Loss
+468,The Girl on the Train,55.02,60.52,0.1,0.0926,15,High,Medium Stock,Profit
+469,The Emerald Mystery,23.15,23.15,0.0,0.0444,15,Medium,Medium Stock,Neutral
+470,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,32.0,0.0,0.0379,15,Medium,Medium Stock,Neutral
+471,The Art of War,33.34,36.67,0.1,0.0812,15,High,Medium Stock,Profit
+472,Secrets and Lace (Fatal Hearts #1),20.27,20.27,0.0,0.0353,15,Medium,Medium Stock,Neutral
+473,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,35.09,-0.05,0.0075,15,Low,Medium Stock,Loss
+474,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,45.17,0.1,0.0576,15,High,Medium Stock,Profit
+475,Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),10.76,10.76,0.0,0.0492,15,Medium,Medium Stock,Neutral
+476,Large Print Heart of the Pride,19.15,18.19,-0.05,0.0123,15,Low,Medium Stock,Loss
+477,Grumbles,22.16,22.16,0.0,0.0226,15,Medium,Medium Stock,Neutral
+478,First Steps for New Christians (Print Edition),29.0,27.55,-0.05,0.014,15,Low,Medium Stock,Loss
+479,Eureka Trivia 6.0,54.59,60.05,0.1,0.0536,15,High,Medium Stock,Profit
+480,Drive: The Surprising Truth About What Motivates Us,34.95,38.44,0.1,0.0771,15,High,Medium Stock,Profit
+481,Done Rubbed Out (Reightman & Bailey #1),37.72,35.83,-0.05,0.0178,15,Low,Medium Stock,Loss
+482,Beauty Restored (Riley Family Legacy Novellas #3),11.11,11.11,0.0,0.0398,15,Medium,Medium Stock,Neutral
+483,Ayumi's Violin,15.48,14.71,-0.05,0.0183,15,Low,Medium Stock,Loss
+484,Anonymous,46.82,46.82,0.0,0.0264,15,Medium,Medium Stock,Neutral
+485,Amy Meets the Saints and Sages,18.46,17.54,-0.05,0.0147,15,Low,Medium Stock,Loss
+486,Amatus,50.54,50.54,0.0,0.0384,15,Medium,Medium Stock,Neutral
+487,V for Vendetta (V for Vendetta Complete),37.1,37.1,0.0,0.0334,14,Medium,Medium Stock,Neutral
+488,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,45.95,0.0,0.0336,14,Medium,Medium Stock,Neutral
+489,The Wright Brothers,56.8,56.8,0.0,0.0226,14,Medium,Medium Stock,Neutral
+490,The Songs of the Gods,44.48,42.26,-0.05,0.0087,14,Low,Medium Stock,Loss
+491,The Rosie Project (Don Tillman #1),54.04,59.44,0.1,0.078,14,High,Medium Stock,Profit
+492,The Power of Habit: Why We Do What We Do in Life and Business,16.88,16.88,0.0,0.0313,14,Medium,Medium Stock,Neutral
+493,Steve Jobs,39.5,37.52,-0.05,0.0095,14,Low,Medium Stock,Loss
+494,Luckiest Girl Alive,49.83,54.81,0.1,0.1358,14,High,Medium Stock,Profit
+495,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,51.6,0.1,0.0609,14,High,Medium Stock,Profit
+496,Lady Midnight (The Dark Artifices #1),16.28,16.28,0.0,0.024,14,Medium,Medium Stock,Neutral
+497,"Hush, Hush (Hush, Hush #1)",47.02,44.67,-0.05,0.0101,14,Low,Medium Stock,Loss
+498,Greek Mythic History,10.23,10.23,0.0,0.0303,14,Medium,Medium Stock,Neutral
+499,Every Last Word,46.47,46.47,0.0,0.0279,14,Medium,Medium Stock,Neutral
+500,Daily Fantasy Sports,36.58,40.24,0.1,0.073,14,High,Medium Stock,Profit
+501,Clockwork Angel (The Infernal Devices #1),44.14,41.93,-0.05,0.0127,14,Low,Medium Stock,Loss
+502,City of Fallen Angels (The Mortal Instruments #4),11.23,11.23,0.0,0.0333,14,Medium,Medium Stock,Neutral
+503,City of Bones (The Mortal Instruments #1),43.28,41.12,-0.05,0.0163,14,Low,Medium Stock,Loss
+504,City of Ashes (The Mortal Instruments #2),47.27,47.27,0.0,0.0221,14,Medium,Medium Stock,Neutral
+505,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,35.04,0.1,0.0614,14,High,Medium Stock,Profit
+506,Carrie,46.23,43.92,-0.05,0.009,14,Low,Medium Stock,Loss
+507,Angels & Demons (Robert Langdon #1),51.48,51.48,0.0,0.0319,14,Medium,Medium Stock,Neutral
+508,"The Three Searches, Meaning, and the Story",13.33,14.66,0.1,0.0832,13,High,Medium Stock,Profit
+509,Raspberry Pi Electronics Projects for the Evil Genius,49.67,49.67,0.0,0.0272,12,Medium,Medium Stock,Neutral
+510,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,55.4,-0.05,0.0089,12,Low,Medium Stock,Loss
+511,Eleanor & Park,56.51,53.68,-0.05,0.0133,12,Low,Medium Stock,Loss
+512,Troublemaker: Surviving Hollywood and Scientology,48.39,48.39,0.0,0.0268,11,Medium,Medium Stock,Neutral
+513,Adultery,20.88,20.88,0.0,0.0473,11,Medium,Medium Stock,Neutral
+514,Unlimited Intuition Now,58.87,61.81,0.05,0.0437,9,Medium,Low Stock,Profit
+515,Underlying Notes,11.82,11.23,-0.05,0.0,9,Low,Low Stock,Loss
+516,The New Brand You: Your New Image Makes the Sale for You,44.05,52.86,0.2,0.0628,9,High,Low Stock,Profit
+517,The Flowers Lied,16.68,17.51,0.05,0.0246,9,Medium,Low Stock,Profit
+518,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,10.93,0.05,0.0308,9,Medium,Low Stock,Profit
+519,Modern Day Fables,47.44,49.81,0.05,0.0376,9,Medium,Low Stock,Profit
+520,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,45.8,0.05,0.0475,8,Medium,Low Stock,Profit
+521,The Martian (The Martian #1),41.39,39.32,-0.05,0.0113,8,Low,Low Stock,Loss
+522,Left Behind (Left Behind #1),40.72,38.68,-0.05,0.0,8,Low,Low Stock,Loss
+523,John Vassos: Industrial Design for Modern Life,20.22,24.26,0.2,0.1318,8,High,Low Stock,Profit
+524,I'll Give You the Sun,56.48,53.66,-0.05,0.0089,8,Low,Low Stock,Loss
+525,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,50.22,-0.05,0.0092,8,Low,Low Stock,Loss
+526,Ender's Game (The Ender Quintet #1),43.64,45.82,0.05,0.0404,8,Medium,Low Stock,Profit
+527,Death by Leisure: A Cautionary Tale,37.51,39.39,0.05,0.0413,8,Medium,Low Stock,Profit
+528,Wildlife of New York: A Five-Borough Coloring Book,22.14,23.25,0.05,0.0254,7,Medium,Low Stock,Profit
+529,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,36.46,0.05,0.0367,7,Medium,Low Stock,Profit
+530,The Great Gatsby,36.05,37.85,0.05,0.024,7,Medium,Low Stock,Profit
+531,The Good Girl,49.03,51.48,0.05,0.0379,7,Medium,Low Stock,Profit
+532,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,31.51,-0.05,0.0,7,Low,Low Stock,Loss
+533,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,25.08,0.2,0.0531,7,High,Low Stock,Profit
+534,Life of Pi,13.22,12.56,-0.05,0.0,7,Low,Low Stock,Loss
+535,The Sound Of Love,57.84,60.73,0.05,0.0236,6,Medium,Low Stock,Profit
+536,The Perks of Being a Wallflower,55.02,57.77,0.05,0.039,6,Medium,Low Stock,Profit
+537,The Makings of a Fatherless Child,31.58,33.16,0.05,0.0417,6,Medium,Low Stock,Profit
+538,The Hobbit (Middle-Earth Universe),17.8,18.69,0.05,0.0216,6,Medium,Low Stock,Profit
+539,The Fellowship of the Ring (The Lord of the Rings #1),10.27,9.76,-0.05,0.0,6,Low,Low Stock,Loss
+540,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,29.07,-0.05,0.0072,6,Low,Low Stock,Loss
+541,Musicophilia: Tales of Music and the Brain,46.58,44.25,-0.05,0.0195,6,Low,Low Stock,Loss
+542,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,64.42,0.2,0.0739,5,High,Low Stock,Profit
+543,The Fault in Our Stars,47.22,56.66,0.2,0.0548,5,High,Low Stock,Profit
+544,The Dream Thieves (The Raven Cycle #2),34.5,36.22,0.05,0.021,5,Medium,Low Stock,Profit
+545,The 5th Wave (The 5th Wave #1),11.83,11.24,-0.05,0.014,5,Low,Low Stock,Loss
+546,Shiver (The Wolves of Mercy Falls #1),16.23,17.04,0.05,0.0422,5,Medium,Low Stock,Profit
+547,Remember Me?,11.48,12.05,0.05,0.0223,5,Medium,Low Stock,Profit
+548,If I Stay (If I Stay #1),38.13,45.76,0.2,0.0524,5,High,Low Stock,Profit
+549,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,38.38,0.05,0.0458,5,Medium,Low Stock,Profit
+550,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,24.49,0.05,0.03,5,Medium,Low Stock,Profit
+551,Fool Me Once,16.96,20.35,0.2,0.0978,5,High,Low Stock,Profit
+552,Drama,38.7,40.64,0.05,0.0357,5,Medium,Low Stock,Profit
+553,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,40.96,0.2,0.0596,5,High,Low Stock,Profit
+554,Alight (The Generations Trilogy #2),58.59,61.52,0.05,0.0491,5,Medium,Low Stock,Profit
+555,Vogue Colors A to Z: A Fashion Coloring Book,52.35,54.97,0.05,0.0336,4,Medium,Low Stock,Profit
+556,The Shining (The Shining #1),27.88,29.27,0.05,0.0271,4,Medium,Low Stock,Profit
+557,The Hunger Games (The Hunger Games #1),29.85,31.34,0.05,0.0233,4,Medium,Low Stock,Profit
+558,Outlander (Outlander #1),19.67,20.65,0.05,0.0237,4,Medium,Low Stock,Profit
+559,Mockingjay (The Hunger Games #3),20.44,24.53,0.2,0.0632,4,High,Low Stock,Profit
+560,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,13.2,-0.05,0.0051,4,Low,Low Stock,Loss
+561,Confessions of a Shopaholic (Shopaholic #1),48.94,46.49,-0.05,0.0177,4,Low,Low Stock,Loss
+562,Zero History (Blue Ant #3),34.77,41.72,0.2,0.0554,3,High,Low Stock,Profit
+563,World War Z: An Oral History of the Zombie War,21.8,26.16,0.2,0.0975,3,High,Low Stock,Profit
+564,Wild: From Lost to Found on the Pacific Crest Trail,46.02,55.22,0.2,0.0575,3,High,Low Stock,Profit
+565,"Where'd You Go, Bernadette",18.13,21.76,0.2,0.0663,3,High,Low Stock,Profit
+566,Twilight (Twilight #1),41.93,39.83,-0.05,0.0,3,Low,Low Stock,Loss
+567,The Paris Wife,36.8,34.96,-0.05,0.0128,3,Low,Low Stock,Loss
+568,The Maze Runner (The Maze Runner #1),20.93,19.88,-0.05,0.0,3,Low,Low Stock,Loss
+569,The Lover's Dictionary,58.09,55.19,-0.05,0.004,3,Low,Low Stock,Loss
+570,The Goldfinch,43.58,41.4,-0.05,0.0121,3,Low,Low Stock,Loss
+571,The Giver (The Giver Quartet #1),12.3,12.92,0.05,0.0217,3,Medium,Low Stock,Profit
+572,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,23.25,0.05,0.0352,3,Medium,Low Stock,Profit
+573,The Demon-Haunted World: Science as a Candle in the Dark,52.25,62.7,0.2,0.0771,3,High,Low Stock,Profit
+574,The Book Thief,53.49,50.82,-0.05,0.0143,3,Low,Low Stock,Loss
+575,The Autobiography of Malcolm X,23.43,24.6,0.05,0.0238,3,Medium,Low Stock,Profit
+576,Shopaholic & Baby (Shopaholic #5),46.45,44.13,-0.05,0.0042,3,Low,Low Stock,Loss
+577,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,45.73,0.05,0.0207,3,Medium,Low Stock,Profit
+578,Packing for Mars: The Curious Science of Life in the Void,56.68,68.02,0.2,0.1899,3,High,Low Stock,Profit
+579,Orange Is the New Black,24.61,25.84,0.05,0.0407,3,Medium,Low Stock,Profit
+580,One for the Money (Stephanie Plum #1),32.87,31.23,-0.05,0.0112,3,Low,Low Stock,Loss
+581,Morning Star (Red Rising #3),29.4,27.93,-0.05,0.0159,3,Low,Low Stock,Loss
+582,Life After Life,26.13,24.82,-0.05,0.0173,3,Low,Low Stock,Loss
+583,"Lean In: Women, Work, and the Will to Lead",25.02,30.02,0.2,0.1042,3,High,Low Stock,Profit
+584,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,21.12,0.05,0.0282,3,Medium,Low Stock,Profit
+585,Gone Girl,37.6,39.48,0.05,0.0207,3,Medium,Low Stock,Profit
+586,Fellside,38.62,40.55,0.05,0.0407,3,Medium,Low Stock,Profit
+587,Eclipse (Twilight #3),18.74,19.68,0.05,0.0402,3,Medium,Low Stock,Profit
+588,Dracula,52.62,55.25,0.05,0.031,3,Medium,Low Stock,Profit
+589,Dead Wake: The Last Crossing of the Lusitania,39.24,41.2,0.05,0.021,3,Medium,Low Stock,Profit
+590,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,18.7,0.05,0.046,3,Medium,Low Stock,Profit
+591,Dark Places,23.9,25.1,0.05,0.0329,3,Medium,Low Stock,Profit
+592,Breaking Dawn (Twilight #4),35.28,33.52,-0.05,0.0083,3,Low,Low Stock,Loss
+593,Beautiful Creatures (Caster Chronicles #1),21.55,22.63,0.05,0.026,3,Medium,Low Stock,Profit
+594,A Visit from the Goon Squad,14.08,13.38,-0.05,0.0,3,Low,Low Stock,Loss
+595,The Zombie Room,19.69,20.67,0.05,0.0248,1,Medium,Low Stock,Profit
+596,The Name of the Wind (The Kingkiller Chronicle #1),50.59,53.12,0.05,0.0222,1,Medium,Low Stock,Profit
+597,Taking Shots (Assassins #1),18.88,17.94,-0.05,0.007,1,Low,Low Stock,Loss
+598,Shatter Me (Shatter Me #1),42.4,40.28,-0.05,0.0065,1,Low,Low Stock,Loss
+599,Paradise Lost (Paradise #1),24.96,26.21,0.05,0.0294,1,Medium,Low Stock,Profit
+600,On the Road (Duluoz Legend),32.36,38.83,0.2,0.0518,1,High,Low Stock,Profit
+601,Jane Eyre,38.43,40.35,0.05,0.0273,1,Medium,Low Stock,Profit
+602,Frankenstein,38.0,39.9,0.05,0.041,1,Medium,Low Stock,Profit
+603,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,41.35,0.1,0.054,19,High,Medium Stock,Profit
+604,Join,35.67,39.24,0.1,0.0814,16,High,Medium Stock,Profit
+605,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,43.3,0.0,0.0221,15,Medium,Medium Stock,Neutral
+606,The Project,10.65,11.72,0.1,0.1019,15,High,Medium Stock,Profit
+607,Soft Apocalypse,26.12,28.73,0.1,0.147,15,High,Medium Stock,Profit
+608,Sleeping Giants (Themis Files #1),48.74,48.74,0.0,0.0493,11,Medium,Medium Stock,Neutral
+609,Arena,21.36,23.5,0.1,0.0596,11,High,Medium Stock,Profit
+610,Foundation (Foundation (Publication Order) #1),32.42,34.04,0.05,0.0429,5,Medium,Low Stock,Profit
+611,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,13.1,0.2,0.0551,3,High,Low Stock,Profit
+612,Ready Player One,19.07,20.02,0.05,0.0425,3,Medium,Low Stock,Profit
+613,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,39.91,0.2,0.0502,3,High,Low Stock,Profit
+614,Dune (Dune #1),54.86,57.6,0.05,0.038,3,Medium,Low Stock,Profit
+615,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,61.78,0.2,0.0702,3,High,Low Stock,Profit
+616,Three Wishes (River of Time: California #1),44.18,41.97,-0.05,0.0199,1,Low,Low Stock,Loss
+617,The Last Girl (The Dominion Trilogy #1),36.26,38.07,0.05,0.0274,1,Medium,Low Stock,Profit
+618,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,33.21,-0.05,0.0169,1,Low,Low Stock,Loss
+619,The Book of Basketball: The NBA According to The Sports Guy,44.84,47.08,0.05,0.0353,3,Medium,Low Stock,Profit
+620,"Friday Night Lights: A Town, a Team, and a Dream",51.22,53.78,0.05,0.0423,3,Medium,Low Stock,Profit
+621,Sugar Rush (Offensive Line #2),24.42,25.64,0.05,0.0397,2,Medium,Low Stock,Profit
+622,Settling the Score (The Summer Games #1),44.91,42.66,-0.05,0.0171,1,Low,Low Stock,Loss
+623,Icing (Aces Hockey #2),40.44,38.42,-0.05,0.0144,1,Low,Low Stock,Loss
+624,The Torch Is Passed: A Harding Family Story,19.09,19.09,0.0,0.0407,16,Medium,Medium Stock,Neutral
+625,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,23.89,0.0,0.0346,16,Medium,Medium Stock,Neutral
+626,The Art Forger,40.76,40.76,0.0,0.0327,16,Medium,Medium Stock,Neutral
+627,On a Midnight Clear,14.07,14.07,0.0,0.0337,16,Medium,Medium Stock,Neutral
+628,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,51.2,-0.05,0.0196,16,Low,Medium Stock,Loss
+629,"Shobu Samurai, Project Aryoku (#3)",29.06,31.97,0.1,0.0579,15,High,Medium Stock,Profit
+630,Modern Romance,28.26,31.09,0.1,0.0606,15,High,Medium Stock,Profit
+631,The White Queen (The Cousins' War #1),25.91,28.5,0.1,0.0757,14,High,Medium Stock,Profit
+632,The Song of Achilles,37.4,35.53,-0.05,0.0148,14,Low,Medium Stock,Loss
+633,The Immortal Life of Henrietta Lacks,40.67,40.67,0.0,0.0248,14,Medium,Medium Stock,Neutral
+634,The Dovekeepers,48.78,53.66,0.1,0.0624,14,High,Medium Stock,Profit
+635,More Than Music (Chasing the Dream #1),37.61,37.61,0.0,0.039,14,Medium,Medium Stock,Neutral
+636,Code Name Verity (Code Name Verity #1),22.13,24.34,0.1,0.0703,14,High,Medium Stock,Profit
+637,Cell,20.29,19.28,-0.05,0.0157,14,Low,Medium Stock,Loss
+638,Angels Walking (Angels Walking #1),34.2,34.2,0.0,0.0402,14,Medium,Medium Stock,Neutral
+639,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,56.48,0.0,0.0213,14,Medium,Medium Stock,Neutral
+640,A People's History of the United States,40.79,40.79,0.0,0.0247,14,Medium,Medium Stock,Neutral
+641,A Brush of Wings (Angels Walking #3),55.51,55.51,0.0,0.0249,14,Medium,Medium Stock,Neutral
+642,Rook,37.86,37.86,0.0,0.0226,13,Medium,Medium Stock,Neutral
+643,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,28.82,0.1,0.0797,12,High,Medium Stock,Profit
+644,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,59.15,0.0,0.0273,12,Medium,Medium Stock,Neutral
+645,The Children,11.88,11.88,0.0,0.0296,12,Medium,Medium Stock,Neutral
+646,One with You (Crossfire #5),15.71,14.92,-0.05,0.0159,12,Low,Medium Stock,Loss
+647,Without Shame,48.27,45.86,-0.05,0.0154,9,Low,Low Stock,Loss
+648,Watchmen,58.05,60.95,0.05,0.0234,9,Medium,Low Stock,Profit
+649,A Hero's Curse (The Unseen Chronicles #1),50.49,47.97,-0.05,0.0,9,Low,Low Stock,Loss
+650,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,37.58,0.05,0.0298,9,Medium,Low Stock,Profit
+651,The Glass Castle,16.24,17.05,0.05,0.0437,7,Medium,Low Stock,Profit
+652,The Drowning Girls,35.67,33.89,-0.05,0.0156,7,Low,Low Stock,Loss
+653,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,21.13,0.05,0.0276,7,Medium,Low Stock,Profit
+654,John Adams,57.43,60.3,0.05,0.025,7,Medium,Low Stock,Profit
+655,Good in Bed (Cannie Shapiro #1),37.05,38.9,0.05,0.0223,7,Medium,Low Stock,Profit
+656,The Joy of Cooking,43.27,45.43,0.05,0.0212,6,Medium,Low Stock,Profit
+657,The Golden Compass (His Dark Materials #1),18.77,19.71,0.05,0.0204,6,Medium,Low Stock,Profit
+658,The God Delusion,46.85,49.19,0.05,0.0222,6,Medium,Low Stock,Profit
+659,Pride and Prejudice,19.27,20.23,0.05,0.024,6,Medium,Low Stock,Profit
+660,Mere Christianity,48.51,46.08,-0.05,0.0153,6,Low,Low Stock,Loss
+661,Fun Home: A Family Tragicomic,56.59,59.42,0.05,0.0307,6,Medium,Low Stock,Profit
+662,The Raven King (The Raven Cycle #4),30.57,32.1,0.05,0.0274,5,Medium,Low Stock,Profit
+663,Find Her (Detective D.D. Warren #8),22.37,21.25,-0.05,0.0176,5,Low,Low Stock,Loss
+664,Evicted: Poverty and Profit in the American City,42.27,44.38,0.05,0.0236,5,Medium,Low Stock,Profit
+665,A Game of Thrones (A Song of Ice and Fire #1),46.42,48.74,0.05,0.0255,5,Medium,Low Stock,Profit
+666,A Clash of Kings (A Song of Ice and Fire #2),10.79,11.33,0.05,0.0231,5,Medium,Low Stock,Profit
+667,The Tipping Point: How Little Things Can Make a Big Difference,10.02,10.52,0.05,0.0351,3,Medium,Low Stock,Profit
+668,The Rest Is Noise: Listening to the Twentieth Century,34.77,36.51,0.05,0.0204,3,Medium,Low Stock,Profit
+669,The Purpose Driven Life: What on Earth Am I Here for?,37.19,44.63,0.2,0.1074,3,High,Low Stock,Profit
+670,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,57.36,0.2,0.0524,3,High,Low Stock,Profit
+671,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,60.35,0.05,0.0312,3,Medium,Low Stock,Profit
+672,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,23.24,0.05,0.026,3,Medium,Low Stock,Profit
+673,The Complete Poems,41.32,43.39,0.05,0.0363,3,Medium,Low Stock,Profit
+674,The Catcher in the Rye,24.55,23.32,-0.05,0.0067,3,Low,Low Stock,Loss
+675,The Case for Christ (Cases for Christianity),47.84,50.23,0.05,0.0368,3,Medium,Low Stock,Profit
+676,The Blind Side: Evolution of a Game,53.71,51.02,-0.05,0.0131,3,Low,Low Stock,Loss
+677,Seven Days in the Art World,52.33,54.95,0.05,0.0265,3,Medium,Low Stock,Profit
+678,Sarah's Key,46.29,48.6,0.05,0.023,3,Medium,Low Stock,Profit
+679,Rogue Lawyer (Rogue Lawyer #1),50.11,60.13,0.2,0.061,3,High,Low Stock,Profit
+680,Manuscript Found in Accra,34.98,36.73,0.05,0.0261,3,Medium,Low Stock,Profit
+681,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,22.34,0.05,0.0264,3,Medium,Low Stock,Profit
+682,Cosmos,36.17,43.4,0.2,0.0593,3,High,Low Stock,Profit
+683,#GIRLBOSS,50.96,53.51,0.05,0.0308,3,Medium,Low Stock,Profit
+684,The Sense of an Ending,31.38,32.95,0.05,0.0231,2,Medium,Low Stock,Profit
+685,The Republic,33.78,40.54,0.2,0.0532,1,High,Low Stock,Profit
+686,The Odyssey,29.64,31.12,0.05,0.0331,1,Medium,Low Stock,Profit
+687,The Light of the Fireflies,54.43,65.32,0.2,0.0603,1,High,Low Stock,Profit
+688,The Iliad,16.16,15.35,-0.05,0.0127,1,Low,Low Stock,Loss
+689,The Communist Manifesto,14.76,15.5,0.05,0.0212,1,Medium,Low Stock,Profit
+690,Lord of the Flies,24.89,26.13,0.05,0.035,1,Medium,Low Stock,Profit
+691,Unicorn Tracks,18.78,18.78,0.0,0.034,16,Medium,Medium Stock,Neutral
+692,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,25.02,0.0,0.0283,16,Medium,Medium Stock,Neutral
+693,Princess Between Worlds (Wide-Awake Princess #5),13.34,12.67,-0.05,0.0083,16,Low,Medium Stock,Loss
+694,Masks and Shadows,56.4,56.4,0.0,0.0325,16,Medium,Medium Stock,Neutral
+695,Crown of Midnight (Throne of Glass #2),43.29,47.62,0.1,0.0542,16,High,Medium Stock,Profit
+696,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,26.69,-0.05,0.0,16,Low,Medium Stock,Loss
+697,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,52.37,0.0,0.0245,16,Medium,Medium Stock,Neutral
+698,Throne of Glass (Throne of Glass #1),35.07,35.07,0.0,0.0212,15,Medium,Medium Stock,Neutral
+699,The Glittering Court (The Glittering Court #1),44.28,48.71,0.1,0.1486,15,High,Medium Stock,Profit
+700,Hollow City (Miss Peregrineâs Peculiar Children #2),42.98,42.98,0.0,0.0337,15,Medium,Medium Stock,Neutral
+701,The Star-Touched Queen,46.02,46.02,0.0,0.0247,14,Medium,Medium Stock,Neutral
+702,The Hidden Oracle (The Trials of Apollo #1),52.26,49.65,-0.05,0.014,14,Low,Medium Stock,Loss
+703,The Bane Chronicles (The Bane Chronicles #1-11),44.73,42.49,-0.05,0.0172,14,Low,Medium Stock,Loss
+704,Island of Dragons (Unwanteds #7),29.65,29.65,0.0,0.0405,14,Medium,Medium Stock,Neutral
+705,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,35.63,-0.05,0.0068,14,Low,Medium Stock,Loss
+706,City of Glass (The Mortal Instruments #3),56.02,61.62,0.1,0.0798,14,High,Medium Stock,Profit
+707,Searching for Meaning in Gailana,38.73,38.73,0.0,0.0463,13,Medium,Medium Stock,Neutral
+708,The Star-Touched Queen,32.3,30.68,-0.05,0.0194,12,Low,Medium Stock,Loss
+709,A Shard of Ice (The Black Symphony Saga #1),56.63,59.46,0.05,0.0248,9,Medium,Low Stock,Profit
+710,King's Folly (The Kinsman Chronicles #1),39.61,41.59,0.05,0.0307,7,Medium,Low Stock,Profit
+711,Every Heart a Doorway (Every Heart A Doorway #1),12.16,12.77,0.05,0.0488,7,Medium,Low Stock,Profit
+712,A Gathering of Shadows (Shades of Magic #2),44.81,42.57,-0.05,0.0132,7,Low,Low Stock,Loss
+713,The Raven Boys (The Raven Cycle #1),57.74,69.29,0.2,0.0871,5,High,Low Stock,Profit
+714,The False Prince (The Ascendance Trilogy #1),56.0,58.8,0.05,0.022,5,Medium,Low Stock,Profit
+715,Tell the Wind and Fire,45.51,47.79,0.05,0.0455,5,Medium,Low Stock,Profit
+716,A Feast for Crows (A Song of Ice and Fire #4),17.21,18.07,0.05,0.024,5,Medium,Low Stock,Profit
+717,The Demonists (Demonist #1),52.11,54.72,0.05,0.027,4,Medium,Low Stock,Profit
+718,The Beast (Black Dagger Brotherhood #14),46.08,43.78,-0.05,0.0122,4,Low,Low Stock,Loss
+719,Paper and Fire (The Great Library #2),49.45,51.92,0.05,0.0227,4,Medium,Low Stock,Profit
+720,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,33.21,0.05,0.0285,4,Medium,Low Stock,Profit
+721,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,51.19,0.05,0.0234,4,Medium,Low Stock,Profit
+722,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,15.48,0.05,0.0287,4,Medium,Low Stock,Profit
+723,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,61.57,0.05,0.037,3,Medium,Low Stock,Profit
+724,Soldier (Talon #3),24.72,23.48,-0.05,0.0069,3,Low,Low Stock,Loss
+725,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,52.69,-0.05,0.0184,3,Low,Low Stock,Loss
+726,Heir to the Sky,44.07,46.27,0.05,0.0223,3,Medium,Low Stock,Profit
+727,Eragon (The Inheritance Cycle #1),43.87,46.06,0.05,0.0203,3,Medium,Low Stock,Profit
+728,Darkfever (Fever #1),56.02,53.22,-0.05,0.0048,3,Low,Low Stock,Loss
+729,Ash,22.06,23.16,0.05,0.0201,3,Medium,Low Stock,Profit
+730,A Storm of Swords (A Song of Ice and Fire #3),31.22,32.78,0.05,0.0234,3,Medium,Low Stock,Profit
+731,Vampire Girl (Vampire Girl #1),53.82,56.51,0.05,0.0396,1,Medium,Low Stock,Profit
+732,The Silent Twin (Detective Jennifer Knight #3),36.25,34.44,-0.05,0.0166,1,Low,Low Stock,Loss
+733,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,27.91,-0.05,0.0,1,Low,Low Stock,Loss
+734,Sister Sable (The Mad Queen #1),13.33,12.66,-0.05,0.0,1,Low,Low Stock,Loss
+735,Shadow Rites (Jane Yellowrock #10),21.72,22.81,0.05,0.0205,1,Medium,Low Stock,Profit
+736,Origins (Alphas 0.5),28.99,30.44,0.05,0.0471,1,Medium,Low Stock,Profit
+737,One Second (Seven #7),52.94,50.29,-0.05,0.0197,1,Low,Low Stock,Loss
+738,Myriad (Prentor #1),58.75,61.69,0.05,0.0247,1,Medium,Low Stock,Profit
+739,Without Borders (Wanderlove #1),45.07,42.82,-0.05,0.0146,16,Low,Medium Stock,Loss
+740,The Mistake (Off-Campus #2),43.29,43.29,0.0,0.0248,15,Medium,Medium Stock,Neutral
+741,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,55.85,0.0,0.0299,15,Medium,Medium Stock,Neutral
+742,The Hook Up (Game On #1),36.29,34.48,-0.05,0.0138,1,Low,Low Stock,Loss
+743,Shameless,58.35,55.43,-0.05,0.0032,1,Low,Low Stock,Loss
+744,Off Sides (Off #1),39.45,41.42,0.05,0.032,1,Medium,Low Stock,Profit
+745,The Requiem Red,22.65,22.65,0.0,0.0376,19,Medium,Medium Stock,Neutral
+746,Set Me Free,17.46,17.46,0.0,0.0261,19,Medium,Medium Stock,Neutral
+747,The Natural History of Us (The Fine Art of Pretending #2),45.22,45.22,0.0,0.0433,16,Medium,Medium Stock,Neutral
+748,Obsidian (Lux #1),14.86,14.86,0.0,0.028,16,Medium,Medium Stock,Neutral
+749,Burning,28.81,28.81,0.0,0.0456,16,Medium,Medium Stock,Neutral
+750,A Fierce and Subtle Poison,28.13,28.13,0.0,0.0252,16,Medium,Medium Stock,Neutral
+751,Scarlett Epstein Hates It Here,43.55,47.9,0.1,0.052,15,High,Medium Stock,Profit
+752,"Nightingale, Sing",38.28,36.37,-0.05,0.0,15,Low,Medium Stock,Loss
+753,Library of Souls (Miss Peregrineâs Peculiar Children #3),48.56,48.56,0.0,0.0242,15,Medium,Medium Stock,Neutral
+754,Frostbite (Vampire Academy #2),29.99,32.99,0.1,0.0597,15,High,Medium Stock,Profit
+755,Wild Swans,14.36,14.36,0.0,0.0238,14,Medium,Medium Stock,Neutral
+756,Until Friday Night (The Field Party #1),46.31,50.94,0.1,0.0885,14,High,Medium Stock,Profit
+757,This Is Where It Ends,27.12,27.12,0.0,0.0477,14,Medium,Medium Stock,Neutral
+758,The Darkest Lie,35.35,33.58,-0.05,0.0105,14,Low,Medium Stock,Loss
+759,My Kind of Crazy,40.36,40.36,0.0,0.0294,14,Medium,Medium Stock,Neutral
+760,Don't Get Caught,55.35,55.35,0.0,0.024,14,Medium,Medium Stock,Neutral
+761,Catching Jordan (Hundred Oaks),50.83,50.83,0.0,0.0315,14,Medium,Medium Stock,Neutral
+762,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,55.23,-0.05,0.0085,14,Low,Medium Stock,Loss
+763,The Epidemic (The Program 0.6),14.44,14.44,0.0,0.0404,12,Medium,Medium Stock,Neutral
+764,Stars Above (The Lunar Chronicles #4.5),48.05,48.05,0.0,0.0226,12,Medium,Medium Stock,Neutral
+765,No Love Allowed (Dodge Cove #1),54.65,54.65,0.0,0.0478,12,Medium,Medium Stock,Neutral
+766,"Exit, Pursued by a Bear",51.34,51.34,0.0,0.0378,11,Medium,Medium Stock,Neutral
+767,The Alien Club,54.4,51.68,-0.05,0.0056,9,Low,Low Stock,Loss
+768,Don't Forget Steven,33.23,34.89,0.05,0.0254,9,Medium,Low Stock,Profit
+769,South of Sunshine,28.93,27.48,-0.05,0.0095,8,Low,Low Stock,Loss
+770,My Life Next Door (My Life Next Door ),36.39,34.57,-0.05,0.0191,8,Low,Low Stock,Loss
+771,Future Shock (Future Shock #1),55.65,66.78,0.2,0.0795,8,High,Low Stock,Profit
+772,Nightstruck: A Novel,50.35,52.87,0.05,0.0394,7,Medium,Low Stock,Profit
+773,Tell the Wolves I'm Home,50.96,48.41,-0.05,0.0092,6,Low,Low Stock,Loss
+774,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,49.68,0.05,0.0287,5,Medium,Low Stock,Profit
+775,Where She Went (If I Stay #2),41.73,43.82,0.05,0.0372,5,Medium,Low Stock,Profit
+776,Two Summers,14.64,13.91,-0.05,0.0195,5,Low,Low Stock,Loss
+777,The Darkest Corners,11.33,10.76,-0.05,0.0171,5,Low,Low Stock,Loss
+778,Tell Me Three Things,41.81,43.9,0.05,0.02,5,Medium,Low Stock,Profit
+779,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,28.36,0.2,0.1134,5,High,Low Stock,Profit
+780,Kill the Boy Band,15.52,16.3,0.05,0.0337,5,Medium,Low Stock,Profit
+781,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,50.54,0.05,0.0347,5,Medium,Low Stock,Profit
+782,An Abundance of Katherines,10.0,9.5,-0.05,0.0,5,Low,Low Stock,Loss
+783,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,25.38,0.05,0.0322,4,Medium,Low Stock,Profit
+784,Walk the Edge (Thunder Road #2),32.36,33.98,0.05,0.0237,3,Medium,Low Stock,Profit
+785,Two Boys Kissing,32.74,34.38,0.05,0.0266,3,Medium,Low Stock,Profit
+786,The New Guy (and Other Senior Year Distractions),44.92,47.17,0.05,0.0215,3,Medium,Low Stock,Profit
+787,"The Land of 10,000 Madonnas",29.64,28.16,-0.05,0.0085,3,Low,Low Stock,Loss
+788,Scarlet (The Lunar Chronicles #2),14.57,15.3,0.05,0.0268,3,Medium,Low Stock,Profit
+789,Legend (Legend #1),43.69,45.87,0.05,0.0323,3,Medium,Low Stock,Profit
+790,Lady Renegades (Rebel Belle #3),53.04,55.69,0.05,0.021,3,Medium,Low Stock,Profit
+791,Golden (Heart of Dread #3),42.21,44.32,0.05,0.0207,3,Medium,Low Stock,Profit
+792,Cinder (The Lunar Chronicles #1),26.09,27.39,0.05,0.0435,3,Medium,Low Stock,Profit
+793,Boy Meets Boy,21.12,20.06,-0.05,0.0172,3,Low,Low Stock,Loss
+794,Annie on My Mind,36.83,38.67,0.05,0.0294,3,Medium,Low Stock,Profit
+795,New Moon (Twilight #2),12.86,15.43,0.2,0.0528,2,High,Low Stock,Profit
+796,Girl Online On Tour (Girl Online #2),53.47,50.8,-0.05,0.0173,2,Low,Low Stock,Loss
+797,The Haters,27.89,29.28,0.05,0.0412,1,Medium,Low Stock,Profit
+798,The Art of Not Breathing,40.83,42.87,0.05,0.0224,1,Medium,Low Stock,Profit
+799,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,42.96,0.0,0.0336,16,Medium,Medium Stock,Neutral
+800,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,54.49,-0.05,0.0194,16,Low,Medium Stock,Loss
+801,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,44.74,0.0,0.0287,14,Medium,Medium Stock,Neutral
+802,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,41.3,0.1,0.0562,12,High,Medium Stock,Profit
+803,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,67.09,0.2,0.1086,9,High,Low Stock,Profit
+804,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,34.09,0.2,0.0918,8,High,Low Stock,Profit
+805,The Origin of Species,10.01,10.51,0.05,0.0277,7,Medium,Low Stock,Profit
+806,The Grand Design,13.76,16.51,0.2,0.077,5,High,Low Stock,Profit
+807,Peak: Secrets from the New Science of Expertise,16.28,19.54,0.2,0.0523,5,High,Low Stock,Profit
+808,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,15.64,0.2,0.0619,3,High,Low Stock,Profit
+809,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,60.22,0.05,0.0353,3,Medium,Low Stock,Profit
+810,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,31.0,0.2,0.1002,3,High,Low Stock,Profit
+811,Seven Brief Lessons on Physics,30.6,36.72,0.2,0.1327,3,High,Low Stock,Profit
+812,The Selfish Gene,29.45,30.92,0.05,0.0269,1,Medium,Low Stock,Profit
+813,A Light in the Attic,51.77,51.77,0.0,0.0336,22,Medium,Medium Stock,Neutral
+814,The Black Maria,52.15,57.36,0.1,0.0671,19,High,Medium Stock,Profit
+815,Shakespeare's Sonnets,20.66,22.73,0.1,0.0619,19,High,Medium Stock,Profit
+816,Olio,23.88,22.69,-0.05,0.0133,19,Low,Medium Stock,Loss
+817,You can't bury them all: Poems,33.63,33.63,0.0,0.0397,17,Medium,Medium Stock,Neutral
+818,Slow States of Collapse: Poems,57.31,57.31,0.0,0.0404,17,Medium,Medium Stock,Neutral
+819,Untitled Collection: Sabbath Poems 2014,14.27,14.27,0.0,0.0376,16,Medium,Medium Stock,Neutral
+820,Poems That Make Grown Women Cry,14.19,14.19,0.0,0.0349,15,Medium,Medium Stock,Neutral
+821,Night Sky with Exit Wounds,41.05,39.0,-0.05,0.0059,15,Low,Medium Stock,Loss
+822,salt.,46.78,44.44,-0.05,0.0,14,Low,Medium Stock,Loss
+823,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,55.98,0.1,0.08,14,High,Medium Stock,Profit
+824,Out of Print: City Lights Spotlight No. 14,53.64,56.32,0.05,0.0212,8,Medium,Low Stock,Profit
+825,Les Fleurs du Mal,29.04,34.85,0.2,0.1007,8,High,Low Stock,Profit
+826,Howl and Other Poems,40.45,42.47,0.05,0.0286,8,Medium,Low Stock,Profit
+827,Leave This Song Behind: Teen Poetry at Its Best,51.17,53.73,0.05,0.0443,7,Medium,Low Stock,Profit
+828,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,14.65,-0.05,0.0163,6,Low,Low Stock,Loss
+829,The Crossover,38.77,46.52,0.2,0.0599,5,High,Low Stock,Profit
+830,Booked,17.49,18.36,0.05,0.0247,5,Medium,Low Stock,Profit
+831,Twenty Love Poems and a Song of Despair,30.95,32.5,0.05,0.0236,1,Medium,Low Stock,Profit
+832,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,18.48,0.2,0.1555,1,High,Low Stock,Profit
+833,Wall and Piece,44.18,48.6,0.1,0.058,18,High,Medium Stock,Profit
+834,Feathers: Displays of Brilliant Plumage,49.05,49.05,0.0,0.0242,14,Medium,Medium Stock,Neutral
+835,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,46.2,-0.05,0.0151,9,Low,Low Stock,Loss
+836,The New Drawing on the Right Side of the Brain,43.02,51.62,0.2,0.0645,8,High,Low Stock,Profit
+837,History of Beauty,10.29,10.8,0.05,0.0248,8,Medium,Low Stock,Profit
+838,The Story of Art,41.14,49.37,0.2,0.0561,7,High,Low Stock,Profit
+839,The Art Book,32.34,33.96,0.05,0.027,7,Medium,Low Stock,Profit
+840,Ways of Seeing,39.51,47.41,0.2,0.0595,1,High,Low Stock,Profit
+841,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,10.4,0.0,0.0268,14,Medium,Medium Stock,Neutral
+842,The Golden Condom: And Other Essays on Love Lost and Found,39.43,39.43,0.0,0.0448,12,Medium,Medium Stock,Neutral
+843,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,56.27,0.0,0.0482,11,Medium,Medium Stock,Neutral
+844,An Unquiet Mind: A Memoir of Moods and Madness,21.3,22.36,0.05,0.0224,6,Medium,Low Stock,Profit
+845,"Thinking, Fast and Slow",21.14,22.2,0.05,0.0216,3,Medium,Low Stock,Profit
+846,Civilization and Its Discontents,59.95,62.95,0.05,0.0249,3,Medium,Low Stock,Profit
+847,8 Keys to Mental Health Through Exercise,31.04,32.59,0.05,0.037,3,Medium,Low Stock,Profit
+848,The Argonauts,10.93,10.38,-0.05,0.0154,15,Low,Medium Stock,Loss
+849,M Train,27.18,29.9,0.1,0.0757,11,High,Medium Stock,Profit
+850,Lab Girl,40.85,40.85,0.0,0.0425,11,Medium,Medium Stock,Neutral
+851,Approval Junkie: Adventures in Caring Too Much,58.81,61.75,0.05,0.0269,5,Medium,Low Stock,Profit
+852,Running with Scissors,12.91,12.26,-0.05,0.0059,3,Low,Low Stock,Loss
+853,Me Talk Pretty One Day,57.6,60.48,0.05,0.0248,3,Medium,Low Stock,Profit
+854,Lust & Wonder,11.87,11.28,-0.05,0.0067,3,Low,Low Stock,Loss
+855,Life Without a Recipe,59.04,61.99,0.05,0.0268,3,Medium,Low Stock,Profit
+856,A Heartbreaking Work of Staggering Genius,54.29,57.0,0.05,0.0274,3,Medium,Low Stock,Profit
+857,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,35.48,-0.05,0.0181,3,Low,Low Stock,Loss
+858,Fifty Shades Freed (Fifty Shades #3),15.36,16.13,0.05,0.0414,3,Medium,Low Stock,Profit
+859,The Long Haul (Diary of a Wimpy Kid #9),44.07,41.87,-0.05,0.0,14,Low,Medium Stock,Loss
+860,Old School (Diary of a Wimpy Kid #10),11.83,11.83,0.0,0.0242,14,Medium,Medium Stock,Neutral
+861,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,28.58,0.1,0.0591,14,High,Medium Stock,Profit
+862,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,14.75,0.0,0.0281,14,Medium,Medium Stock,Neutral
+863,Dress Your Family in Corduroy and Denim,43.68,41.5,-0.05,0.0066,9,Low,Low Stock,Loss
+864,Toddlers Are A**holes: It's Not Your Fault,25.55,24.27,-0.05,0.0179,7,Low,Low Stock,Loss
+865,When You Are Engulfed in Flames,30.89,32.43,0.05,0.0298,3,Medium,Low Stock,Profit
+866,Naked,31.69,30.11,-0.05,0.0084,3,Low,Low Stock,Loss
+867,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,52.72,-0.05,0.0154,3,Low,Low Stock,Loss
+868,Holidays on Ice,51.07,61.28,0.2,0.0634,3,High,Low Stock,Profit
+869,Security,39.25,39.25,0.0,0.034,16,Medium,Medium Stock,Neutral
+870,Follow You Home,21.36,23.5,0.1,0.0511,15,High,Medium Stock,Profit
+871,The Loney,23.4,22.23,-0.05,0.0077,14,Low,Medium Stock,Loss
+872,Pet Sematary,10.56,10.03,-0.05,0.0,14,Low,Medium Stock,Loss
+873,Doctor Sleep (The Shining #2),40.12,38.11,-0.05,0.0198,14,Low,Medium Stock,Loss
+874,Psycho: Sanitarium (Psycho #1.5),36.97,36.97,0.0,0.025,12,Medium,Medium Stock,Neutral
+875,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,46.21,-0.05,0.0113,12,Low,Medium Stock,Loss
+876,Red Dragon (Hannibal Lecter #1),23.37,24.54,0.05,0.0326,5,Medium,Low Stock,Profit
+877,Dracula the Un-Dead,35.63,37.41,0.05,0.021,5,Medium,Low Stock,Profit
+878,Night Shift (Night Shift #1-20),12.75,13.39,0.05,0.0217,4,Medium,Low Stock,Profit
+879,Needful Things,47.51,45.13,-0.05,0.0112,4,Low,Low Stock,Loss
+880,Misery,34.79,36.53,0.05,0.0275,4,Medium,Low Stock,Profit
+881,It,25.01,26.26,0.05,0.0329,4,Medium,Low Stock,Profit
+882,'Salem's Lot,49.56,47.08,-0.05,0.0,4,Low,Low Stock,Loss
+883,The Stand,57.86,69.43,0.2,0.0718,3,High,Low Stock,Profit
+884,The Girl with All the Gifts,49.47,51.94,0.05,0.0272,3,Medium,Low Stock,Profit
+885,House of Leaves,54.89,57.63,0.05,0.0243,3,Medium,Low Stock,Profit
+886,Sapiens: A Brief History of Humankind,54.23,59.65,0.1,0.0882,20,High,Medium Stock,Profit
+887,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,28.07,0.1,0.1649,16,High,Medium Stock,Profit
+888,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,19.73,0.0,0.0369,16,Medium,Medium Stock,Neutral
+889,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,36.28,0.0,0.041,16,Medium,Medium Stock,Neutral
+890,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,65.6,0.1,0.0955,15,High,Medium Stock,Profit
+891,Zealot: The Life and Times of Jesus of Nazareth,24.7,23.46,-0.05,0.0151,14,Low,Medium Stock,Loss
+892,A Distant Mirror: The Calamitous 14th Century,14.58,13.85,-0.05,0.0115,14,Low,Medium Stock,Loss
+893,1491: New Revelations of the Americas Before Columbus,21.8,21.8,0.0,0.035,14,Medium,Medium Stock,Neutral
+894,Brilliant Beacons: A History of the American Lighthouse,11.45,12.02,0.05,0.0253,8,Medium,Low Stock,Profit
+895,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,42.26,-0.05,0.0114,8,Low,Low Stock,Loss
+896,A Short History of Nearly Everything,52.4,49.78,-0.05,0.0186,7,Low,Low Stock,Loss
+897,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,37.69,-0.05,0.0176,6,Low,Low Stock,Loss
+898,Catherine the Great: Portrait of a Woman,58.55,61.48,0.05,0.0226,6,Medium,Low Stock,Profit
+899,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,40.76,-0.05,0.0187,5,Low,Low Stock,Loss
+900,The Hiding Place,55.91,67.09,0.2,0.0607,5,High,Low Stock,Profit
+901,America's War for the Greater Middle East: A Military History,51.22,48.66,-0.05,0.0182,5,Low,Low Stock,Loss
+902,The Guns of August,14.54,13.81,-0.05,0.0102,3,Low,Low Stock,Loss
+903,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,41.52,-0.05,0.0194,3,Low,Low Stock,Loss
+904,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,30.52,0.0,0.0381,19,Medium,Medium Stock,Neutral
+905,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,56.41,0.0,0.0298,16,Medium,Medium Stock,Neutral
+906,My Paris Kitchen: Recipes and Stories,33.37,31.7,-0.05,0.0172,16,Low,Medium Stock,Loss
+907,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,13.32,-0.05,0.0,16,Low,Medium Stock,Loss
+908,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,40.11,0.0,0.0353,16,Medium,Medium Stock,Neutral
+909,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,35.47,-0.05,0.0147,15,Low,Medium Stock,Loss
+910,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,41.36,0.1,0.0583,15,High,Medium Stock,Profit
+911,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,41.25,0.0,0.0296,15,Medium,Medium Stock,Neutral
+912,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,42.16,0.0,0.0435,15,Medium,Medium Stock,Neutral
+913,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,27.33,-0.05,0.0183,14,Low,Medium Stock,Loss
+914,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,18.57,-0.05,0.0146,14,Low,Medium Stock,Loss
+915,Barefoot Contessa Back to Basics,28.01,26.61,-0.05,0.0187,14,Low,Medium Stock,Loss
+916,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,48.09,-0.05,0.0087,14,Low,Medium Stock,Loss
+917,My Kitchen Year: 136 Recipes That Saved My Life,11.53,11.53,0.0,0.0284,13,Medium,Medium Stock,Neutral
+918,Everyday Italian: 125 Simple and Delicious Recipes,20.1,19.1,-0.05,0.0,12,Low,Medium Stock,Loss
+919,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,38.77,0.0,0.0245,12,Medium,Medium Stock,Neutral
+920,Cravings: Recipes for What You Want to Eat,20.5,19.48,-0.05,0.0183,11,Low,Medium Stock,Loss
+921,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,11.72,-0.05,0.0087,9,Low,Low Stock,Loss
+922,32 Yolks,53.63,56.31,0.05,0.0419,8,Medium,Low Stock,Profit
+923,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,13.66,0.2,0.0682,7,High,Low Stock,Profit
+924,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,43.71,-0.05,0.0128,7,Low,Low Stock,Loss
+925,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,26.84,-0.05,0.0,7,Low,Low Stock,Loss
+926,The Barefoot Contessa Cookbook,59.92,56.92,-0.05,0.0179,6,Low,Low Stock,Loss
+927,Better Homes and Gardens New Cook Book,39.61,41.59,0.05,0.0311,6,Medium,Low Stock,Profit
+928,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,11.6,0.05,0.0349,5,Medium,Low Stock,Profit
+929,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,26.16,0.05,0.0303,5,Medium,Low Stock,Profit
+930,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,14.34,0.05,0.0308,3,Medium,Low Stock,Profit
+931,The Smitten Kitchen Cookbook,23.59,24.77,0.05,0.0327,3,Medium,Low Stock,Profit
+932,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,36.04,0.05,0.0413,3,Medium,Low Stock,Profit
+933,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,39.77,0.2,0.1496,3,High,Low Stock,Profit
+934,Redeeming Love,20.47,19.45,-0.05,0.018,15,Low,Medium Stock,Loss
+935,Close to You,49.46,49.46,0.0,0.0308,15,Medium,Medium Stock,Neutral
+936,Shadows of the Past (Logan Point #1),39.67,37.69,-0.05,0.0167,8,Low,Low Stock,Loss
+937,Like Never Before (Walker Family #2),28.77,27.33,-0.05,0.0195,7,Low,Low Stock,Loss
+938,Counted With the Stars (Out from Egypt #1),17.97,17.07,-0.05,0.0152,7,Low,Low Stock,Loss
+939,If I Run (If I Run #1),49.97,47.47,-0.05,0.0028,3,Low,Low Stock,Loss
+940,The Dirty Little Secrets of Getting Your Dream Job,33.34,36.67,0.1,0.0749,19,High,Medium Stock,Profit
+941,The Third Wave: An Entrepreneurâs Vision of the Future,12.61,13.87,0.1,0.0705,15,High,Medium Stock,Profit
+942,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,27.55,0.0,0.0323,15,Medium,Medium Stock,Neutral
+943,Shoe Dog: A Memoir by the Creator of NIKE,23.99,26.39,0.1,0.0659,15,High,Medium Stock,Profit
+944,Made to Stick: Why Some Ideas Survive and Others Die,38.85,38.85,0.0,0.0396,14,Medium,Medium Stock,Neutral
+945,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,47.45,0.1,0.0724,12,High,Medium Stock,Profit
+946,The Art of Startup Fundraising,21.0,21.0,0.0,0.0303,11,Medium,Medium Stock,Neutral
+947,Born for This: How to Find the Work You Were Meant to Do,21.59,23.75,0.1,0.061,11,High,Medium Stock,Profit
+948,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,44.29,0.2,0.1686,8,High,Low Stock,Profit
+949,"Rich Dad, Poor Dad",51.74,62.09,0.2,0.051,7,High,Low Stock,Profit
+950,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,40.7,0.2,0.051,3,High,Low Stock,Profit
+951,Rework,44.88,53.86,0.2,0.1039,3,High,Low Stock,Profit
+952,Louisa: The Extraordinary Life of Mrs. Adams,16.85,16.85,0.0,0.0299,15,Medium,Medium Stock,Neutral
+953,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,21.15,0.0,0.0463,11,Medium,Medium Stock,Neutral
+954,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,41.53,0.05,0.0202,7,Medium,Low Stock,Profit
+955,Benjamin Franklin: An American Life,48.19,50.6,0.05,0.0328,7,Medium,Low Stock,Profit
+956,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,40.44,-0.05,0.005,3,Low,Low Stock,Loss
+957,In Her Wake,12.84,14.12,0.1,0.0513,19,High,Medium Stock,Profit
+958,The Elephant Tree,23.82,23.82,0.0,0.0238,18,Medium,Medium Stock,Neutral
+959,Behind Closed Doors,52.22,52.22,0.0,0.0465,18,Medium,Medium Stock,Neutral
+960,You (You #1),43.61,43.61,0.0,0.0277,14,Medium,Medium Stock,Neutral
+961,The Guilty (Will Robie #4),13.82,13.13,-0.05,0.0046,14,Low,Medium Stock,Loss
+962,The 14th Colony (Cotton Malone #11),39.24,37.28,-0.05,0.0179,14,Low,Medium Stock,Loss
+963,Give It Back,18.32,19.24,0.05,0.0404,6,Medium,Low Stock,Profit
+964,Killing Floor (Jack Reacher #1),31.49,29.92,-0.05,0.0,5,Low,Low Stock,Loss
+965,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,62.7,0.05,0.0293,4,Medium,Low Stock,Profit
+966,Far From True (Promise Falls Trilogy #2),34.93,36.68,0.05,0.0285,4,Medium,Low Stock,Profit
+967,The Travelers,15.77,16.56,0.05,0.0497,3,Medium,Low Stock,Profit
+968,When We Collided,31.77,34.95,0.1,0.0912,16,High,Medium Stock,Profit
+969,Someone Like You (The Harrisons #2),52.79,50.15,-0.05,0.0184,14,Low,Medium Stock,Loss
+970,We Are All Completely Beside Ourselves,24.04,22.84,-0.05,0.0,3,Low,Low Stock,Loss
+971,The Four Agreements: A Practical Guide to Personal Freedom,17.66,17.66,0.0,0.0362,18,Medium,Medium Stock,Neutral
+972,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,35.46,0.1,0.069,16,High,Medium Stock,Profit
+973,Chasing Heaven: What Dying Taught Me About Living,37.8,37.8,0.0,0.027,15,Medium,Medium Stock,Neutral
+974,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,19.86,-0.05,0.0148,9,Low,Low Stock,Loss
+975,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,44.01,-0.05,0.011,7,Low,Low Stock,Loss
+976,A New Earth: Awakening to Your Life's Purpose,55.65,58.43,0.05,0.0267,4,Medium,Low Stock,Profit
+977,Logan Kade (Fallen Crest High #5.5),13.12,12.46,-0.05,0.0,5,Low,Low Stock,Loss
+978,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,46.35,0.0,0.0365,16,Medium,Medium Stock,Neutral
+979,How to Be Miserable: 40 Strategies You Already Use,46.03,46.03,0.0,0.047,16,Medium,Medium Stock,Neutral
+980,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,52.15,0.0,0.0378,14,Medium,Medium Stock,Neutral
+981,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,14.5,0.2,0.0652,7,High,Low Stock,Profit
+982,How to Stop Worrying and Start Living,46.49,48.81,0.05,0.0391,6,Medium,Low Stock,Profit
+983,All the Light We Cannot See,29.87,29.87,0.0,0.0232,14,Medium,Medium Stock,Neutral
+984,The Girl You Left Behind (The Girl You Left Behind #1),15.79,16.58,0.05,0.041,6,Medium,Low Stock,Profit
+985,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,54.0,0.0,0.0271,16,Medium,Medium Stock,Neutral
+986,Crazy Love: Overwhelmed by a Relentless God,47.72,47.72,0.0,0.0303,14,Medium,Medium Stock,Neutral
+987,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,27.06,0.05,0.0201,7,Medium,Low Stock,Profit
+988,Silence in the Dark (Logan Point #4),58.33,55.41,-0.05,0.0,8,Low,Low Stock,Loss
+989,The Grownup,35.88,37.67,0.05,0.0487,8,Medium,Low Stock,Profit
+990,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,65.77,0.2,0.0645,9,High,Low Stock,Profit
+991,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,53.96,0.1,0.0549,16,High,Medium Stock,Profit
+992,"Eat Fat, Get Thin",54.07,51.37,-0.05,0.0,14,Low,Medium Stock,Loss
+993,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,52.2,0.05,0.0354,10,Medium,Low Stock,Profit
+994,The Art and Science of Low Carbohydrate Living,52.98,63.58,0.2,0.1222,9,High,Low Stock,Profit
+995,Libertarianism for Beginners,51.33,56.46,0.1,0.0855,19,High,Medium Stock,Profit
+996,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,52.65,0.0,0.0229,14,Medium,Medium Stock,Neutral
+997,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,56.86,0.0,0.0455,12,Medium,Medium Stock,Neutral
+998,Amid the Chaos,36.58,36.58,0.0,0.0364,15,Medium,Medium Stock,Neutral
+999,Dark Notes,19.19,19.19,0.0,0.0266,15,Medium,Medium Stock,Neutral
+1000,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,12.07,0.1,0.0526,15,High,Medium Stock,Profit
