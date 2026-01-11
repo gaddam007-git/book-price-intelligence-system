@@ -1,0 +1,2297 @@
+[
+  {
+    "category":"Travel",
+    "book_name":"It's Only the Himalayas",
+    "author":"S. Bedford"
+  },
+  {
+    "category":"Travel",
+    "book_name":"Under the Tuscan Sun",
+    "author":"Frances Mayes"
+  },
+  {
+    "category":"Travel",
+    "book_name":"A Summer In Europe",
+    "author":"Marilyn Brant"
+  },
+  {
+    "category":"Travel",
+    "book_name":"The Great Railway Bazaar",
+    "author":"Paul Theroux"
+  },
+  {
+    "category":"Travel",
+    "book_name":"1,000 Places to See Before You Die",
+    "author":"Patricia Schultz"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"Sharp Objects",
+    "author":"Gillian Flynn"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"In a Dark, Dark Wood",
+    "author":"Ruth Ware"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"The Past Never Ends",
+    "author":"Jackson Burnett"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"A Murder in Time",
+    "author":"Julie McElwain"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"Most Wanted",
+    "author":"Gaurav Upadhyay"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"The Widow",
+    "author":"Georgette Heyer"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"Playing with Fire",
+    "author":"Derek Landy"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"The Exiled",
+    "author":"Cinda Williams Chima"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"The Girl You Lost",
+    "author":"Croft, Kathryn (Novelist)"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Tipping the Velvet",
+    "author":"Sarah Waters"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The House by the Lake",
+    "author":"Eleanor Farnes"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Mrs. Houdini",
+    "author":"Victoria Kelly"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Marriage of Opposites",
+    "author":"Alice Hoffman"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Love, Lies and Spies",
+    "author":"Cindy Anstey"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"A Paris Apartment",
+    "author":"Michelle Gable"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Lilac Girls",
+    "author":"Martha Hall Kelly"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Invention of Wings",
+    "author":"Sue Monk Kidd"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Passion of Dolssa",
+    "author":"Julie Berry"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Girl With a Pearl Earring",
+    "author":"Tracy Chevalier"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Red Tent",
+    "author":"Anita Diamant"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Last Painting of Sara de Vos",
+    "author":"Dominic Smith"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Guernsey Literary and Potato Peel Pie Society",
+    "author":"Mary Ann Shaffer"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Girl in the Blue Coat",
+    "author":"Monica Hesse"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Between Shades of Gray",
+    "author":"Ruta Sepetys"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"While You Were Mine",
+    "author":"Ann Howard Creel"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Secret Healer",
+    "author":"Ellin Carsta"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Starlark",
+    "author":"Cael Percy"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"Lost Among the Living",
+    "author":"Simone St. James"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"This One Summer",
+    "author":"Mariko Tamaki"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Patience",
+    "author":"Isabel Miller"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Camp Midnight",
+    "author":"Steven T. Seagle"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"The Shadow Hero (The Shadow Hero)",
+    "author":"David A. Gemmell"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Batman: The Long Halloween (Batman)",
+    "author":"Jeph Loeb"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Through the Woods",
+    "author":"Emily Carroll"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Robin War",
+    "author":"Tom King"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"El Deafo",
+    "author":"Cece Bell"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Art Ops Vol. 1",
+    "author":"Shaun Simon"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Roller Girl",
+    "author":"Victoria Jamieson"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Original Fake",
+    "author":"Kirstin Cronn-Mills"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Awkward",
+    "author":"Svetlana Chmakova"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Giant Days, Vol. 1 (Giant Days #1-4)",
+    "author":"John Allison"
+  },
+  {
+    "category":"Classics",
+    "book_name":"The Secret Garden",
+    "author":"Frances Hodgson Burnett"
+  },
+  {
+    "category":"Classics",
+    "book_name":"The Pilgrim's Progress",
+    "author":"John Bunyan"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Little Women (Little Women #1)",
+    "author":"E. Disomma"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Gone with the Wind",
+    "author":"Margaret Mitchell"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Candide",
+    "author":"Voltaire"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Animal Farm",
+    "author":"George Orwell"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Wuthering Heights",
+    "author":"Emily Bronte\u0308"
+  },
+  {
+    "category":"Classics",
+    "book_name":"The Picture of Dorian Gray",
+    "author":"Oscar Wilde"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Beowulf",
+    "author":"Seamus Heaney"
+  },
+  {
+    "category":"Classics",
+    "book_name":"And Then There Were None",
+    "author":"Agatha Christie"
+  },
+  {
+    "category":"Classics",
+    "book_name":"The Story of Hong Gildong",
+    "author":"Kyun H\u014f"
+  },
+  {
+    "category":"Classics",
+    "book_name":"The Little Prince",
+    "author":"Thomas Barichella"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Sense and Sensibility",
+    "author":"Jane Austen"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Of Mice and Men",
+    "author":"John Steinbeck"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Emma",
+    "author":"Jane Austen"
+  },
+  {
+    "category":"Classics",
+    "book_name":"Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+    "author":"Lewis Carroll"
+  },
+  {
+    "category":"Philosophy",
+    "book_name":"Sophie's World",
+    "author":"Jostein Gaarder"
+  },
+  {
+    "category":"Philosophy",
+    "book_name":"The Stranger",
+    "author":"Mark Twain"
+  },
+  {
+    "category":"Philosophy",
+    "book_name":"Critique of Pure Reason",
+    "author":"Immanuel Kant"
+  },
+  {
+    "category":"Philosophy",
+    "book_name":"The Nicomachean Ethics",
+    "author":"Aristotle"
+  },
+  {
+    "category":"Philosophy",
+    "book_name":"Meditations",
+    "author":"Marcus Aurelius"
+  },
+  {
+    "category":"Philosophy",
+    "book_name":"Beyond Good and Evil",
+    "author":"Friedrich Nietzsche"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Black Dust",
+    "author":"Bruce Berglund"
+  },
+  {
+    "category":"Romance",
+    "book_name":"The Wedding Dress",
+    "author":"Danielle Steel"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Something More Than This",
+    "author":"Barbie Bohrman"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Sit, Stay, Love",
+    "author":"Howard, J.J"
+  },
+  {
+    "category":"Romance",
+    "book_name":"A Walk to Remember",
+    "author":"Nicholas Sparks"
+  },
+  {
+    "category":"Romance",
+    "book_name":"The Obsession",
+    "author":"Danielle Lori"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Reservations for Two",
+    "author":"Jennifer Lohmann"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Rhythm, Chord & Malykhin",
+    "author":"Mariana Zapata"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Imperfect Harmony",
+    "author":"Joshua Coleman"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"Will You Won't You Want Me?",
+    "author":"Nora Zelevansky"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"Keep Me Posted",
+    "author":"Lisa Beazley"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"Meternity",
+    "author":"Meghann Foye"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"Some Women",
+    "author":"Erle Stanley Gardner"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"Can You Keep a Secret?",
+    "author":"Sophie Kinsella"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"Twenties Girl",
+    "author":"Sophie Kinsella"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"The Undomestic Goddess",
+    "author":"Sophie Kinsella"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"The Nanny Diaries (Nanny #1)",
+    "author":"Emma McLaughlin"
+  },
+  {
+    "category":"Womens Fiction",
+    "book_name":"I've Got Your Number",
+    "author":"Sophie Kinsella"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Soumission",
+    "author":"Michel Houellebecq"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"We Love You, Charlie Freeman",
+    "author":"Kaitlyn Greenidge"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Thirst",
+    "author":"Golden Books"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Tuesday Nights in 1980",
+    "author":"Molly Prentiss"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Vacationers",
+    "author":"Emma Straub"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Regional Office Is Under Attack!",
+    "author":"Manuel Gonzales"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Time Keeper",
+    "author":"Mitch Albom"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Testament of Mary",
+    "author":"Colm T\u00f3ib\u00edn"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Take Me with You",
+    "author":"Ida Cook"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Still Life with Bread Crumbs",
+    "author":"Anna Quindlen"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Shtum",
+    "author":"Jem Lester"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"My Name Is Lucy Barton",
+    "author":"Elizabeth Strout"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"My Mrs. Brown",
+    "author":"Mr. William Norwich"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Eight Hundred Grapes",
+    "author":"Laura Dave"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Dear Mr. Knightley",
+    "author":"Katherine Reay"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Balloon Animals",
+    "author":"Megan Atwood"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Dinner Party",
+    "author":"Neil Simon"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Improbability of Love",
+    "author":"Hannah Rothschild"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Mothering Sunday",
+    "author":"Graham Swift"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Lies and Other Acts of Love",
+    "author":"Kristy Woodson Harvey"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Daredevils",
+    "author":"Rosemary Carter"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"11\/22\/63",
+    "author":"Stephen King"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Shack",
+    "author":"William P. Young"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The High Mountains of Portugal",
+    "author":"Yann Martel"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Miller's Valley",
+    "author":"Anna Quindlen"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Hystopia: A Novel",
+    "author":"David Means"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Sister Dear",
+    "author":"Kate William"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Memoirs of a Geisha",
+    "author":"Arthur Golden"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Deception Point",
+    "author":"Dan Brown"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Little Paris Bookshop",
+    "author":"Nina George"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Firm",
+    "author":"John Grisham"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Expatriates",
+    "author":"Janice Y. K. Lee"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Siddhartha",
+    "author":"Hermann Hesse"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Digital Fortress",
+    "author":"Dan Brown"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Atlas Shrugged",
+    "author":"Ayn Rand"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Three-Martini Lunch",
+    "author":"Suzanne Rindell"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Nightingale",
+    "author":"Kristin Hannah"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Infinities",
+    "author":"Robert Kanigel"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Husband's Secret",
+    "author":"Liane Moriarty"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Art of Fielding",
+    "author":"Chad Harbach"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Big Little Lies",
+    "author":"Liane Moriarty"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Course of Love",
+    "author":"Alain De Botton"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"When I'm Gone",
+    "author":"anouar el attari"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Silent Wife",
+    "author":"A. S. A. Harrison"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Bette Davis Club",
+    "author":"Jane Lotter"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Kitchens of the Great Midwest",
+    "author":"J. Ryan Stradal"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Bright Lines",
+    "author":"Mountain"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Bear and the Piano",
+    "author":"David Litchfield"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Secret of Dreadwillow Carse",
+    "author":"Brian Farrey"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Little Red",
+    "author":"Audrey Wood"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Walt Disney's Alice in Wonderland",
+    "author":"Teddy Slater"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Twenty Yawns",
+    "author":"Jane Smiley"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Rain Fish",
+    "author":"Jerry Dennis"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Once Was a Time",
+    "author":"Leila Sales"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Luis Paints the World",
+    "author":"Terry Farish"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Nap-a-Roo",
+    "author":"Kristy Kurjan"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Whale",
+    "author":"Julia Donaldson"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Raymie Nightingale",
+    "author":"Kate DiCamillo"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Playing from the Heart",
+    "author":"Roger Crawford"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Wild Robot",
+    "author":"Peter Brown"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Thing About Jellyfish",
+    "author":"Ali Benjamin"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Lonely Ones",
+    "author":"Louis L'Amour"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Day the Crayons Came Home (Crayons)",
+    "author":"Drew Daywalt"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Red: The True Story of Red Riding Hood",
+    "author":"Liesl Shurtliff"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Horrible Bear!",
+    "author":"Dyckman, Ame"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Counting Thyme",
+    "author":"Melanie Conklin"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Are We There Yet?",
+    "author":"David Levithan"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Matilda",
+    "author":"Roald Dahl"
+  },
+  {
+    "category":"Religion",
+    "book_name":"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",
+    "author":"Brad Warner"
+  },
+  {
+    "category":"Religion",
+    "book_name":"The Book of Mormon",
+    "author":"Joseph Smith, Jr."
+  },
+  {
+    "category":"Religion",
+    "book_name":"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Religion",
+    "book_name":"The Bhagavad Gita",
+    "author":"Juan Mascar\u00f3"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Reasons to Stay Alive",
+    "author":"Matt Haig"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+    "author":"Worth Books Staff"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Power of Now: A Guide to Spiritual Enlightenment",
+    "author":"Eckhart Tolle"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Omnivore's Dilemma: A Natural History of Four Meals",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Genius of Birds",
+    "author":"Jennifer Ackerman"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"So You've Been Publicly Shamed",
+    "author":"Jon Ronson"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+    "author":"Bren\u00e9 Brown"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Year of Magical Thinking",
+    "author":"Joan Didion"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Looking for Lovely: Collecting the Moments that Matter",
+    "author":"Annie F. Downs"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Hamilton: The Revolution",
+    "author":"John D. Barnhart"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Brain on Fire: My Month of Madness",
+    "author":"Paul Adams \/ Bookhabits"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Abstract City",
+    "author":"J. E. Carlock"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Diary of a Young Girl",
+    "author":"Anne Frank"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Mother, Can You Not?",
+    "author":"Kate Friedman"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Zero to One: Notes on Startups, or How to Build the Future",
+    "author":"Whizbooks"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Why Not Me?",
+    "author":"Mindy Kaling"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"When Breath Becomes Air",
+    "author":"Paul Kalanithi"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Rising Strong",
+    "author":"Bren\u00e9 Brown"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Man's Search for Meaning",
+    "author":"Viktor E. Frankl"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",
+    "author":"Ron Fournier"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"I Will Find You",
+    "author":"Harlan Coben"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Between the World and Me",
+    "author":"Ta-Nehisi Coates"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Being Mortal: Medicine and What Matters in the End",
+    "author":"EssentialReads"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+    "author":"Oliver Sacks"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"In Cold Blood",
+    "author":"Truman Capote"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Girl, Interrupted",
+    "author":"Susanna Kaysen"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"My Mother Was Nuts",
+    "author":"Penny Marshall"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Gunning of America: Business and the Making of American Gun Culture",
+    "author":"Pamela Haag"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Under the Banner of Heaven: A Story of Violent Faith",
+    "author":"Jon Jon"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Name of God is Mercy",
+    "author":"Francis Pope"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Stiff: The Curious Lives of Human Cadavers",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Outliers: The Story of Success",
+    "author":"BookCaps Study Guides Staff"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Letter to a Christian Nation",
+    "author":"Sam Harris"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Into the Wild",
+    "author":"Erin Hunter"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+    "author":"Malala Yousafzai"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Gratitude",
+    "author":"Motwani Dev Motwani Dev Publishing"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Brave Enough",
+    "author":"Cheryl Strayed"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Black Flags: The Rise of ISIS",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Are We Smart Enough to Know How Smart Animals Are?",
+    "author":"Frans De Waal"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Kindle Paperwhite User's Guide",
+    "author":"Jose Emiel"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"H is for Hawk",
+    "author":"Helen Macdonald"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Tumor",
+    "author":"Robert Carachi"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Eat, Pray, Love",
+    "author":"Elizabeth Gilbert"
+  },
+  {
+    "category":"Music",
+    "book_name":"Rip it Up and Start Again",
+    "author":"Simon Reynolds"
+  },
+  {
+    "category":"Music",
+    "book_name":"How Music Works",
+    "author":"David Byrne"
+  },
+  {
+    "category":"Music",
+    "book_name":"Chronicles, Vol. 1",
+    "author":"Fabien Nury"
+  },
+  {
+    "category":"Music",
+    "book_name":"No One Here Gets Out Alive",
+    "author":"Jerry Hopkins"
+  },
+  {
+    "category":"Music",
+    "book_name":"Life",
+    "author":"Irving Stone"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "author":"BookNation"
+  },
+  {
+    "category":"Default",
+    "book_name":"Aladdin and His Wonderful Lamp",
+    "author":"Alan Brown"
+  },
+  {
+    "category":"Default",
+    "book_name":"Penny Maybe",
+    "author":"Kathleen Martin"
+  },
+  {
+    "category":"Default",
+    "book_name":"Soul Reader",
+    "author":"David Brackett"
+  },
+  {
+    "category":"Default",
+    "book_name":"Bossypants",
+    "author":"Tina Fey"
+  },
+  {
+    "category":"Default",
+    "book_name":"Tracing Numbers on a Train",
+    "author":"James McDonald"
+  },
+  {
+    "category":"Default",
+    "book_name":"Thirteen Reasons Why",
+    "author":"Jay Asher"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Secret (The Secret #1)",
+    "author":"Pseudonymous Bosch"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Kite Runner",
+    "author":"Khaled Hosseini"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Girl on the Train",
+    "author":"Paula Hawkins"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Emerald Mystery",
+    "author":"j. a. lath"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Art of War",
+    "author":"\u5b59\u6b66"
+  },
+  {
+    "category":"Default",
+    "book_name":"Grumbles",
+    "author":"Roger Hargreaves"
+  },
+  {
+    "category":"Default",
+    "book_name":"Ayumi's Violin",
+    "author":"Mariko Tatsumoto"
+  },
+  {
+    "category":"Default",
+    "book_name":"Anonymous",
+    "author":"Somme Sketcher"
+  },
+  {
+    "category":"Default",
+    "book_name":"Amy Meets the Saints and Sages",
+    "author":"Ernie Rosenberg"
+  },
+  {
+    "category":"Default",
+    "book_name":"Amatus",
+    "author":"Maite L\u00f3pez Las Heras"
+  },
+  {
+    "category":"Default",
+    "book_name":"Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+    "author":"K. D. Phillips"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Wright Brothers",
+    "author":"David McCullough"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Songs of the Gods",
+    "author":"Dimitrios Spyridon Chytiris"
+  },
+  {
+    "category":"Default",
+    "book_name":"Steve Jobs",
+    "author":"Walter Isaacson"
+  },
+  {
+    "category":"Default",
+    "book_name":"Luckiest Girl Alive",
+    "author":"Jessica Knoll"
+  },
+  {
+    "category":"Default",
+    "book_name":"Every Last Word",
+    "author":"Tamara Ireland Stone"
+  },
+  {
+    "category":"Default",
+    "book_name":"Daily Fantasy Sports",
+    "author":"Jay Correia"
+  },
+  {
+    "category":"Default",
+    "book_name":"Carry On, Warrior: Thoughts on Life Unarmed",
+    "author":"Glennon Melton"
+  },
+  {
+    "category":"Default",
+    "book_name":"Carrie",
+    "author":"Stephen King"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Three Searches, Meaning, and the Story",
+    "author":"John H.T. Francis"
+  },
+  {
+    "category":"Default",
+    "book_name":"Raspberry Pi Electronics Projects for the Evil Genius",
+    "author":"Norris, Donald (Electrical engineer)"
+  },
+  {
+    "category":"Default",
+    "book_name":"Eleanor & Park",
+    "author":"Rainbow Rowell"
+  },
+  {
+    "category":"Default",
+    "book_name":"Adultery",
+    "author":"Tess Stimson"
+  },
+  {
+    "category":"Default",
+    "book_name":"Unlimited Intuition Now",
+    "author":"Catherine Carrigan"
+  },
+  {
+    "category":"Default",
+    "book_name":"Underlying Notes",
+    "author":"Eva Pasco"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Flowers Lied",
+    "author":"Michael Goldberg"
+  },
+  {
+    "category":"Default",
+    "book_name":"Modern Day Fables",
+    "author":"Jason Petersen"
+  },
+  {
+    "category":"Default",
+    "book_name":"Left Behind (Left Behind #1)",
+    "author":"Jerry B. Jenkins"
+  },
+  {
+    "category":"Default",
+    "book_name":"I'll Give You the Sun",
+    "author":"Jandy Nelson"
+  },
+  {
+    "category":"Default",
+    "book_name":"Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+    "author":"Todd Burpo"
+  },
+  {
+    "category":"Default",
+    "book_name":"Death by Leisure: A Cautionary Tale",
+    "author":"Chris Ayres"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Great Gatsby",
+    "author":"F. Scott Fitzgerald"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Good Girl",
+    "author":"Mary Kubica"
+  },
+  {
+    "category":"Default",
+    "book_name":"The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+    "author":"Whizbooks"
+  },
+  {
+    "category":"Default",
+    "book_name":"Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+    "author":"Austin Kleon"
+  },
+  {
+    "category":"Default",
+    "book_name":"Life of Pi",
+    "author":"Yann Martel"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Sound Of Love",
+    "author":"Norma Frances Greco"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Perks of Being a Wallflower",
+    "author":"Stephen Chbosky"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Makings of a Fatherless Child",
+    "author":"Chandler Alexander"
+  },
+  {
+    "category":"Default",
+    "book_name":"Musicophilia: Tales of Music and the Brain",
+    "author":"Key Key Summaries"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Fault in Our Stars",
+    "author":"John Green"
+  },
+  {
+    "category":"Default",
+    "book_name":"The 5th Wave (The 5th Wave #1)",
+    "author":"Richard Yancey"
+  },
+  {
+    "category":"Default",
+    "book_name":"Remember Me?",
+    "author":"Christopher Pike"
+  },
+  {
+    "category":"Default",
+    "book_name":"Fool Me Once",
+    "author":"Harlan Coben"
+  },
+  {
+    "category":"Default",
+    "book_name":"Drama",
+    "author":"Raina Telgemeier"
+  },
+  {
+    "category":"Default",
+    "book_name":"World War Z: An Oral History of the Zombie War",
+    "author":"Max Brooks"
+  },
+  {
+    "category":"Default",
+    "book_name":"Wild: From Lost to Found on the Pacific Crest Trail",
+    "author":"Whizbooks"
+  },
+  {
+    "category":"Default",
+    "book_name":"Where'd You Go, Bernadette",
+    "author":"Maria Semple"
+  },
+  {
+    "category":"Default",
+    "book_name":"Twilight (Twilight #1)",
+    "author":"David Preti"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Paris Wife",
+    "author":"Paula McLain"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Lover's Dictionary",
+    "author":"David Levithan"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Goldfinch",
+    "author":"Donna Tartt"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Book Thief",
+    "author":"Markus Zusak"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Autobiography of Malcolm X",
+    "author":"Harold Bloom"
+  },
+  {
+    "category":"Default",
+    "book_name":"Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author":"Book Junkie"
+  },
+  {
+    "category":"Default",
+    "book_name":"Orange Is the New Black",
+    "author":"Piper Kerman"
+  },
+  {
+    "category":"Default",
+    "book_name":"Life After Life",
+    "author":"Raymond A. Moody"
+  },
+  {
+    "category":"Default",
+    "book_name":"Lean In: Women, Work, and the Will to Lead",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Default",
+    "book_name":"Is Everyone Hanging Out Without Me? (And Other Concerns)",
+    "author":"Mindy Kaling"
+  },
+  {
+    "category":"Default",
+    "book_name":"Gone Girl",
+    "author":"Gillian Flynn"
+  },
+  {
+    "category":"Default",
+    "book_name":"Fellside",
+    "author":"M. R. Carey"
+  },
+  {
+    "category":"Default",
+    "book_name":"Dracula",
+    "author":"Bram Stoker"
+  },
+  {
+    "category":"Default",
+    "book_name":"Dark Places",
+    "author":"Gillian Flynn"
+  },
+  {
+    "category":"Default",
+    "book_name":"A Visit from the Goon Squad",
+    "author":"Jennifer Egan"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Zombie Room",
+    "author":"R. D. Ronald"
+  },
+  {
+    "category":"Default",
+    "book_name":"Jane Eyre",
+    "author":"Charlotte Bronte\u0308"
+  },
+  {
+    "category":"Default",
+    "book_name":"Frankenstein",
+    "author":"Mary Shelley"
+  },
+  {
+    "category":"Science Fiction",
+    "book_name":"Join",
+    "author":"Johanna Lindsey"
+  },
+  {
+    "category":"Science Fiction",
+    "book_name":"The Project",
+    "author":"Graeme Simsion"
+  },
+  {
+    "category":"Science Fiction",
+    "book_name":"Soft Apocalypse",
+    "author":"Will McIntosh"
+  },
+  {
+    "category":"Science Fiction",
+    "book_name":"Arena",
+    "author":"Booth Tarkington"
+  },
+  {
+    "category":"Science Fiction",
+    "book_name":"Ready Player One",
+    "author":"Ernest Cline"
+  },
+  {
+    "category":"Science Fiction",
+    "book_name":"Dune (Dune #1)",
+    "author":"Brian Herbert"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Art Forger",
+    "author":"Eric Hebborn"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"On a Midnight Clear",
+    "author":"Bruce Hammack"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Modern Romance",
+    "author":"Aziz Ansari"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Song of Achilles",
+    "author":"Madeline Miller"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Immortal Life of Henrietta Lacks",
+    "author":"Rebecca Skloot"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Dovekeepers",
+    "author":"Alice Hoffman"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Cell",
+    "author":"Kwang W. Jeon"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"A People's History of the United States",
+    "author":"Howard Zinn"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Rook",
+    "author":"Daniel O'Malley"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Children",
+    "author":"Edith Nesbit"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Without Shame",
+    "author":"Dennis Craig Smith"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Watchmen",
+    "author":"Alan Moore"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Glass Castle",
+    "author":"Jeannette Walls"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Drowning Girls",
+    "author":"Caitli\u0301n R. Kiernan"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"John Adams",
+    "author":"David McCullough"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Joy of Cooking",
+    "author":"Irma S. Rombauer"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The God Delusion",
+    "author":"Richard Dawkins"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Pride and Prejudice",
+    "author":"Jane Austen"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Mere Christianity",
+    "author":"C.S. Lewis"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Purpose Driven Life: What on Earth Am I Here for?",
+    "author":"Rick Warren"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Complete Poems",
+    "author":"Anne Sexton"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Catcher in the Rye",
+    "author":"J. D. Salinger"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Case for Christ (Cases for Christianity)",
+    "author":"Immanuel Bourne"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Seven Days in the Art World",
+    "author":"Sarah Thornton"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Sarah's Key",
+    "author":"Tatiana de Rosnay"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Manuscript Found in Accra",
+    "author":"Paulo Coelho"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Cosmos",
+    "author":"Alexander von Humboldt"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"#GIRLBOSS",
+    "author":"Celeste Bradley Designs"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Sense of an Ending",
+    "author":"Julian Barnes"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Republic",
+    "author":"Drew Karpyshyn"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Odyssey",
+    "author":"\u038c\u03bc\u03b7\u03c1\u03bf\u03c2"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Light of the Fireflies",
+    "author":"Paul Pen"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Iliad",
+    "author":"\u038c\u03bc\u03b7\u03c1\u03bf\u03c2"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Communist Manifesto",
+    "author":"David Boyle"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"Lord of the Flies",
+    "author":"William Golding"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Unicorn Tracks",
+    "author":"Julia Ember"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Masks and Shadows",
+    "author":"Winifred H. Mills"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+    "author":"Sarah J. Maas"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"The Star-Touched Queen",
+    "author":"Roshani Chokshi"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Searching for Meaning in Gailana",
+    "author":"John H. T. Francis"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"The Star-Touched Queen",
+    "author":"Roshani Chokshi"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"King's Folly (The Kinsman Chronicles #1)",
+    "author":"Jill Williamson"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Tell the Wind and Fire",
+    "author":"Sarah Rees Brennan"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Heir to the Sky",
+    "author":"Amanda Sun"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Ash",
+    "author":"Frank McCourt"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Vampire Girl (Vampire Girl #1)",
+    "author":"Chloe Neill"
+  },
+  {
+    "category":"New Adult",
+    "book_name":"Shameless",
+    "author":"Kiki Swinson"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The Requiem Red",
+    "author":"Brynn Chapman"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Set Me Free",
+    "author":"Jay Dee"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Burning",
+    "author":"Jack London"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"A Fierce and Subtle Poison",
+    "author":"Samantha Mabry"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Scarlett Epstein Hates It Here",
+    "author":"Anna Breslaw"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Nightingale, Sing",
+    "author":"Monica Dickens"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Wild Swans",
+    "author":"Jung Chang"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"This Is Where It Ends",
+    "author":"Marieke Nijkamp"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The Darkest Lie",
+    "author":"Gena Showalter"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"My Kind of Crazy",
+    "author":"Robin Reul"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Don't Get Caught",
+    "author":"Kurt Dinan"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Exit, Pursued by a Bear",
+    "author":"E. K. Johnston"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The Alien Club",
+    "author":"Trel W Sidoruk"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Don't Forget Steven",
+    "author":"P. D. Workman"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"South of Sunshine",
+    "author":"Dana Elmendorf"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"My Life Next Door (My Life Next Door )",
+    "author":"Huntley Fitzpatrick"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Tell the Wolves I'm Home",
+    "author":"Carol Rifka Brunt"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",
+    "author":"John Green"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Two Summers",
+    "author":"Nora Roberts"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The Darkest Corners",
+    "author":"Elizabeth Haynes"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Tell Me Three Things",
+    "author":"Julie Buxbaum"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Kill the Boy Band",
+    "author":"Goldy Moldavsky"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"An Abundance of Katherines",
+    "author":"John Green"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Harry Potter and the Prisoner of Azkaban (Harry Potter #3)",
+    "author":"Dollhouse"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Two Boys Kissing",
+    "author":"David Levithan"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The New Guy (and Other Senior Year Distractions)",
+    "author":"Amy Spalding"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The Land of 10,000 Madonnas",
+    "author":"Kate Hattemer"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Legend (Legend #1)",
+    "author":"Gregory Mundy"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Boy Meets Boy",
+    "author":"David Levithan"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Annie on My Mind",
+    "author":"Nancy Garden"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The Haters",
+    "author":"Thomas Shadwell"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"The Art of Not Breathing",
+    "author":"Sarah Alexander"
+  },
+  {
+    "category":"Science",
+    "book_name":"The Origin of Species",
+    "author":"Charles Darwin"
+  },
+  {
+    "category":"Science",
+    "book_name":"The Grand Design",
+    "author":"Stephen Hawking"
+  },
+  {
+    "category":"Science",
+    "book_name":"Peak: Secrets from the New Science of Expertise",
+    "author":"The Mindset Warrior"
+  },
+  {
+    "category":"Science",
+    "book_name":"Seven Brief Lessons on Physics",
+    "author":"Carlo Rovelli"
+  },
+  {
+    "category":"Science",
+    "book_name":"The Selfish Gene",
+    "author":"Richard Dawkins"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"A Light in the Attic",
+    "author":"Shel Silverstein"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"The Black Maria",
+    "author":"Aracelis Girmay"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Shakespeare's Sonnets",
+    "author":"William Shakespeare"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Olio",
+    "author":"Tyehimba Jess"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Poems That Make Grown Women Cry",
+    "author":"Anthony Holden"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Night Sky with Exit Wounds",
+    "author":"Ocean Vuong"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"salt.",
+    "author":"Patricia Highsmith"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Les Fleurs du Mal",
+    "author":"Charles Baudelaire"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Howl and Other Poems",
+    "author":"Allen Ginsberg"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"The Crossover",
+    "author":"Kwame Alexander"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Booked",
+    "author":"Donald Nguyen"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Twenty Love Poems and a Song of Despair",
+    "author":"J. Simon Harris"
+  },
+  {
+    "category":"Art",
+    "book_name":"Wall and Piece",
+    "author":"Banksy"
+  },
+  {
+    "category":"Art",
+    "book_name":"The New Drawing on the Right Side of the Brain",
+    "author":"Betty Edwards"
+  },
+  {
+    "category":"Art",
+    "book_name":"History of Beauty",
+    "author":"Umberto Eco"
+  },
+  {
+    "category":"Art",
+    "book_name":"The Story of Art",
+    "author":"E. H. Gombrich"
+  },
+  {
+    "category":"Art",
+    "book_name":"The Art Book",
+    "author":"Art Book"
+  },
+  {
+    "category":"Art",
+    "book_name":"Ways of Seeing",
+    "author":"John Berger"
+  },
+  {
+    "category":"Psychology",
+    "book_name":"Thinking, Fast and Slow",
+    "author":"Daniel Kahneman"
+  },
+  {
+    "category":"Psychology",
+    "book_name":"Civilization and Its Discontents",
+    "author":"Sigmund Freud"
+  },
+  {
+    "category":"Psychology",
+    "book_name":"8 Keys to Mental Health Through Exercise",
+    "author":"Christina G. Hibbert"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"The Argonauts",
+    "author":"Maggie Nelson"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"M Train",
+    "author":"Patti Smith"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"Lab Girl",
+    "author":"Hope Jahren"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"Running with Scissors",
+    "author":"Augusten Burroughs"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"Me Talk Pretty One Day",
+    "author":"David Sedaris"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"Lust & Wonder",
+    "author":"James Mahoney"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"Life Without a Recipe",
+    "author":"Diana Abu-Jaber"
+  },
+  {
+    "category":"Autobiography",
+    "book_name":"A Heartbreaking Work of Staggering Genius",
+    "author":"Dave Eggers"
+  },
+  {
+    "category":"Humor",
+    "book_name":"Dress Your Family in Corduroy and Denim",
+    "author":"David Sedaris"
+  },
+  {
+    "category":"Humor",
+    "book_name":"When You Are Engulfed in Flames",
+    "author":"David Sedaris"
+  },
+  {
+    "category":"Humor",
+    "book_name":"Naked",
+    "author":"William S. Burroughs"
+  },
+  {
+    "category":"Humor",
+    "book_name":"Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+    "author":"Christopher Moore"
+  },
+  {
+    "category":"Humor",
+    "book_name":"Holidays on Ice",
+    "author":"David Sedaris"
+  },
+  {
+    "category":"Horror",
+    "book_name":"Security",
+    "author":"Benjamin Graham"
+  },
+  {
+    "category":"Horror",
+    "book_name":"Follow You Home",
+    "author":"Edwards, Mark (Fiction writer)"
+  },
+  {
+    "category":"Horror",
+    "book_name":"The Loney",
+    "author":"Andrew Michael Hurley"
+  },
+  {
+    "category":"Horror",
+    "book_name":"Pet Sematary",
+    "author":"Stephen King"
+  },
+  {
+    "category":"Horror",
+    "book_name":"Dracula the Un-Dead",
+    "author":"Dacre Stoker"
+  },
+  {
+    "category":"Horror",
+    "book_name":"Needful Things",
+    "author":"Stephen King"
+  },
+  {
+    "category":"Horror",
+    "book_name":"Misery",
+    "author":"Stephen King"
+  },
+  {
+    "category":"Horror",
+    "book_name":"It",
+    "author":"Edith Nesbit"
+  },
+  {
+    "category":"Horror",
+    "book_name":"'Salem's Lot",
+    "author":"Stephen King"
+  },
+  {
+    "category":"Horror",
+    "book_name":"The Stand",
+    "author":"Stephen King"
+  },
+  {
+    "category":"Horror",
+    "book_name":"The Girl with All the Gifts",
+    "author":"M. R. Carey"
+  },
+  {
+    "category":"Horror",
+    "book_name":"House of Leaves",
+    "author":"Mark Z. Danielewski"
+  },
+  {
+    "category":"History",
+    "book_name":"Sapiens: A Brief History of Humankind",
+    "author":"BookNation"
+  },
+  {
+    "category":"History",
+    "book_name":"The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+    "author":"A. C. Grayling"
+  },
+  {
+    "category":"History",
+    "book_name":"Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+    "author":"Worth Books"
+  },
+  {
+    "category":"History",
+    "book_name":"Zealot: The Life and Times of Jesus of Nazareth",
+    "author":"Reza Aslan"
+  },
+  {
+    "category":"History",
+    "book_name":"A Short History of Nearly Everything",
+    "author":"Bill Bryson"
+  },
+  {
+    "category":"History",
+    "book_name":"The Rise and Fall of the Third Reich: A History of Nazi Germany",
+    "author":"WILLIAM L. SHIRER"
+  },
+  {
+    "category":"History",
+    "book_name":"The Hiding Place",
+    "author":"Corrie ten Boom"
+  },
+  {
+    "category":"History",
+    "book_name":"The Guns of August",
+    "author":"Barbara Tuchman"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+    "author":"Ree Drummond"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"Barefoot Contessa Back to Basics",
+    "author":"Ina Garten"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"32 Yolks",
+    "author":"Eric Ripert"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"The Barefoot Contessa Cookbook",
+    "author":"Ina Garten"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"The Smitten Kitchen Cookbook",
+    "author":"Deb Perelman"
+  },
+  {
+    "category":"Christian Fiction",
+    "book_name":"Redeeming Love",
+    "author":"Francine Rivers"
+  },
+  {
+    "category":"Christian Fiction",
+    "book_name":"Close to You",
+    "author":"Christina Dodd"
+  },
+  {
+    "category":"Christian Fiction",
+    "book_name":"Like Never Before (Walker Family #2)",
+    "author":"Melissa Tagg"
+  },
+  {
+    "category":"Business",
+    "book_name":"The Dirty Little Secrets of Getting Your Dream Job",
+    "author":"Don Raskin"
+  },
+  {
+    "category":"Business",
+    "book_name":"The Art of Startup Fundraising",
+    "author":"Alejandro Cremades"
+  },
+  {
+    "category":"Business",
+    "book_name":"Rich Dad, Poor Dad",
+    "author":"Robert T. Kiyosaki"
+  },
+  {
+    "category":"Business",
+    "book_name":"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "author":"Worth Books"
+  },
+  {
+    "category":"Business",
+    "book_name":"Rework",
+    "author":"Jason Fried"
+  },
+  {
+    "category":"Biography",
+    "book_name":"Benjamin Franklin: An American Life",
+    "author":"Walter Isaacson"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"In Her Wake",
+    "author":"Amanda Jennings"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"The Elephant Tree",
+    "author":"R. D. Ronald"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"Behind Closed Doors",
+    "author":"B.A. Paris"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"You (You #1)",
+    "author":"Ally Carter"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"Give It Back",
+    "author":"Kimberly Daniels"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"The Travelers",
+    "author":"Marco Polo"
+  },
+  {
+    "category":"Contemporary",
+    "book_name":"When We Collided",
+    "author":"Emery Lord"
+  },
+  {
+    "category":"Contemporary",
+    "book_name":"We Are All Completely Beside Ourselves",
+    "author":"Karen Joy Fowler"
+  },
+  {
+    "category":"Spirituality",
+    "book_name":"The Four Agreements: A Practical Guide to Personal Freedom",
+    "author":"Ruiz, Miguel, 1952-"
+  },
+  {
+    "category":"Self Help",
+    "book_name":"You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "author":"alex"
+  },
+  {
+    "category":"Self Help",
+    "book_name":"How to Stop Worrying and Start Living",
+    "author":"Dale Carnegie"
+  },
+  {
+    "category":"Historical",
+    "book_name":"All the Light We Cannot See",
+    "author":"Anthony Doerr"
+  },
+  {
+    "category":"Christian",
+    "book_name":"Crazy Love: Overwhelmed by a Relentless God",
+    "author":"Chris Tomlin"
+  },
+  {
+    "category":"Short Stories",
+    "book_name":"The Grownup",
+    "author":"Gillian Flynn"
+  },
+  {
+    "category":"Health",
+    "book_name":"Eat Fat, Get Thin",
+    "author":"Katya Johansson"
+  },
+  {
+    "category":"Health",
+    "book_name":"The Art and Science of Low Carbohydrate Living",
+    "author":"Jeff Volek"
+  },
+  {
+    "category":"Politics",
+    "book_name":"Libertarianism for Beginners",
+    "author":"Todd Seavey"
+  },
+  {
+    "category":"Cultural",
+    "book_name":"Amid the Chaos",
+    "author":"Nia Quin"
+  },
+  {
+    "category":"Erotica",
+    "book_name":"Dark Notes",
+    "author":"Pam Godwin`"
+  }
+]

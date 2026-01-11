@@ -1,0 +1,470 @@
+[
+  {
+    "category":"Travel",
+    "book_name":"Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+    "author":"Tim Ferriss",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"The Murder of Roger Ackroyd (Hercule Poirot #4)",
+    "author":"Sheppard",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"Tastes Like Fear (DI Marnie Rome #3)",
+    "author":"Lisa Gardner and",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"Boar Island (Anna Pigeon #19)",
+    "author":"Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst Bringing you a gripping mystery",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"What Happened on Beale Street (Secrets of the South Mysteries #2)",
+    "author":"Mary Ellis. These standalone",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Mystery",
+    "book_name":"The Cuckoo's Calling (Cormoran Strike #1)",
+    "author":"J.K. Rowling",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Historical Fiction",
+    "book_name":"The Constant Princess (The Tudor Court #1)",
+    "author":"Anne Boleyn",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+    "author":"John Allison. ...more",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Fables, Vol. 1: Legends in Exile (Fables #1)",
+    "author":"Wolf",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",
+    "author":"Yanick Paquette",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)",
+    "author":"National Book Award nominee Gene Luen Yang",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)",
+    "author":"Republic soldiers so she can win over the Elector and feed him a decoy assassination plan. But when June realizes that the new Elector is nothing like his father",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Sequential Art",
+    "book_name":"Saga, Volume 2 (Saga (Collected Editions) #2)",
+    "author":"Hazel has already survived lethal assassins",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Romance",
+    "book_name":"The Wedding Pact (The O'Malleys #2)",
+    "author":"Katee Robert continues her smoking",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Romance",
+    "book_name":"A Girl's Guide to Moving On (New Beginnings #2)",
+    "author":"Debbie Macomber reaches new heights in this wise and beautiful novel. It",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Best of My Love (Fool's Gold #20)",
+    "author":"Gilmore goes on the hunt for a friend",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Romance",
+    "book_name":"Listen to Me (Fusion #1)",
+    "author":"Kristen Proby",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Private Paris (Private #10)",
+    "author":"Private",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The First Hostage (J.B. Collins #2)",
+    "author":"ISIS terrorists in Amman",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"The Silent Sister (Riley MacPherson #1)",
+    "author":"Diane Chamberlain. ...more",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Lila (Gilead #3)",
+    "author":"Doll",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fiction",
+    "book_name":"Jurassic Park (Jurassic Park #1)",
+    "author":"Chip Kidd. ...more",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"The Cat in the Hat (Beginner Books B-1)",
+    "author":"Dr. Seuss",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Childrens",
+    "book_name":"Green Eggs and Ham (Beginner Books B-16)",
+    "author":"Dr. Seuss. In a house or with a mouse",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Religion",
+    "book_name":"You Are What You Love: The Spiritual Power of Habit",
+    "author":"James K. A. Smith shows that who and what we worship fundamentally shape our hearts. And while we desire to shape culture",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Religion",
+    "book_name":"God: The Most Unpleasant Character in All Fiction",
+    "author":"Richard Dawkins and former evangelical preacher Dan Barker",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+    "author":"Douglas Rushkoff",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+    "author":"Caroline Paul emboldens girls to seek out a life of exhilaration. Once a young scaredy",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Algorithms to Live By: The Computer Science of Human Decisions",
+    "author":"Brian Christian and cognitive scientist Tom Griffiths show how the algorithms used by computers can also untangle very human questions. They explain how to have better hunches and when to leave things to chance",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Becoming Wise: An Inquiry into the Mystery and Art of Living",
+    "author":"Tippett and accompanied by a delightfully ecumenical dream team of teaching faculty.",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"13 Hours: The Inside Account of What Really Happened In Benghazi",
+    "author":"CIA station called the Annex in Benghazi",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want",
+    "author":"Michael Hyatt and executive coach Daniel Harkavy show us how to do",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe",
+    "author":"Einstein",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America",
+    "author":"First Lady Eleanor Roosevelt",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Unstuffed: Decluttering Your Home, Mind, and Soul",
+    "author":"Ruth Soukup feels y",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"Night (The Night Trilogy #1)",
+    "author":"Elie Wiesel about his experience with his father in the Nazi German concentration camps at Auschwitz and Buchenwald in",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Nonfiction",
+    "book_name":"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
+    "author":"Hitler until Berlin",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Music",
+    "book_name":"Love Is a Mix Tape (Music #1)",
+    "author":"The Rolling Stones",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Music",
+    "book_name":"Kill 'Em and Leave: Searching for James Brown and the American Soul",
+    "author":"Brown",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Music",
+    "book_name":"Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+    "author":"Wilco",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+    "author":"Wayne Stewart not only tells us who they are",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"Maude (1883-1993):She Grew Up with the country",
+    "author":"Mardo Williams",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"Done Rubbed Out (Reightman & Bailey #1)",
+    "author":"Bailey discovers his former lover naked and dead on a massage table",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"Greek Mythic History",
+    "author":"Spencer Clevenger to critical insights and intriguing results. In",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Hobbit (Middle-Earth Universe)",
+    "author":"Collins Modern Classics",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"The Dream Thieves (The Raven Cycle #2)",
+    "author":"Academy. The path to Glendower has long lived as an undercurrent beneath town. But now",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"Alight (The Generations Trilogy #2)",
+    "author":"New York Times bestselling author Scott Sigler",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Default",
+    "book_name":"Eclipse (Twilight #3)",
+    "author":"Twilight and New Moon will eagerly devour Eclipse",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Sports and Games",
+    "book_name":"Icing (Aces Hockey #2)",
+    "author":"Jami Davenport as her",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Torch Is Passed: A Harding Family Story",
+    "author":"Nicholas. What no one knows until much later is that the Oakes brothers have entered into a business deal with Russian mobster Viktor Roman",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"A Brush of Wings (Angels Walking #3)",
+    "author":"Karen Kingsbury comes the third novel in the unforgettable Angels Walking series about divine intervention and the trials and triumphs of life for a group of friends.Despite needing a heart transplant and against the advice of her doctor",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Add a comment",
+    "book_name":"The Midnight Watch: A Novel of the Titanic and the Californian",
+    "author":"Steadman",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"The Bane Chronicles (The Bane Chronicles #1-11)",
+    "author":"Cassandra Clare",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"Paper and Fire (The Great Library #2)",
+    "author":"Rachel Caine introduced a world where knowledge is power",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Fantasy",
+    "book_name":"The Rose & the Dagger (The Wrath and the Dawn #2)",
+    "author":"Publishers Weekly as",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Frostbite (Vampire Academy #2)",
+    "author":"Strigoi attack puts St. Vladimir",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"No Love Allowed (Dodge Cove #1)",
+    "author":"Kate Evangelista.Caleb desperately needs a fake girlfriend. Either he attends a series of parties for his father",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Young Adult",
+    "book_name":"Lady Renegades (Rebel Belle #3)",
+    "author":"Rachel Hawkins brings the fun once again in the finale of this pitch",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Science",
+    "book_name":"Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+    "author":"Luba Vikhanski chronicles Metchnikoff",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Science",
+    "book_name":"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+    "author":"Sam Kean comes incredible stories of science",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"Out of Print: City Lights Spotlight No. 14",
+    "author":"Julien Poirier",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Poetry",
+    "book_name":"The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+    "author":"Yeats for inclusion in his standard canon. Breathtaking in range",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Art",
+    "book_name":"Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+    "author":"Mozart. After all",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Adult Fiction",
+    "book_name":"Fifty Shades Freed (Fifty Shades #3)",
+    "author":"Christian",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Horror",
+    "book_name":"Psycho: Sanitarium (Psycho #1.5)",
+    "author":"Robert Bloch was published in",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"History",
+    "book_name":"Catherine the Great: Portrait of a Woman",
+    "author":"Voltaire as like the classical philosophers. She was condemned by enemies",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"History",
+    "book_name":"America's War for the Greater Middle East: A Military History",
+    "author":"Andrew J. Bacevich provides a searing reassessment of U.S. military policy in the Middle East over the past four decades. From the end of World War II until",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"History",
+    "book_name":"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+    "author":"Richard Conniff introduces a cast of bold expl This fascinating book tells the story of how one museum changed ideas about dinosaurs",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking",
+    "author":"Heidi Swanson toSaveurMagazine",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",
+    "author":"Ella",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Food and Drink",
+    "book_name":"How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)",
+    "author":"Flay",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Business",
+    "book_name":"The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+    "author":"Inc.",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Biography",
+    "book_name":"The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist",
+    "author":"Larry Alex Taunton.",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+    "author":"Finchem",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Thriller",
+    "book_name":"Far From True (Promise Falls Trilogy #2)",
+    "author":"Linwood Barclay delivers the second spine",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Contemporary",
+    "book_name":"Someone Like You (The Harrisons #2)",
+    "author":"McCord should be grateful. Instead she",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Spirituality",
+    "book_name":"If I Gave You God's Phone Number....: Searching for Spirituality in America",
+    "author":"Ms. Cromwell",
+    "source":"BooksToScrape"
+  },
+  {
+    "category":"Self Help",
+    "book_name":"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+    "author":"Joyce Meyer shows readers how to become free from the burden of stress so that they can achieve God",
+    "source":"BooksToScrape"
+  }
+]

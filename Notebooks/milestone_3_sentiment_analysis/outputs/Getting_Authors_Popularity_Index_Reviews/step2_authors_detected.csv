@@ -1,0 +1,460 @@
+category,book_name,author
+Travel,It's Only the Himalayas,S. Bedford
+Travel,Under the Tuscan Sun,Frances Mayes
+Travel,A Summer In Europe,Marilyn Brant
+Travel,The Great Railway Bazaar,Paul Theroux
+Travel,"1,000 Places to See Before You Die",Patricia Schultz
+Mystery,Sharp Objects,Gillian Flynn
+Mystery,"In a Dark, Dark Wood",Ruth Ware
+Mystery,The Past Never Ends,Jackson Burnett
+Mystery,A Murder in Time,Julie McElwain
+Mystery,Most Wanted,Gaurav Upadhyay
+Mystery,The Widow,Georgette Heyer
+Mystery,Playing with Fire,Derek Landy
+Mystery,The Exiled,Cinda Williams Chima
+Mystery,The Girl You Lost,"Croft, Kathryn (Novelist)"
+Historical Fiction,Tipping the Velvet,Sarah Waters
+Historical Fiction,The House by the Lake,Eleanor Farnes
+Historical Fiction,Mrs. Houdini,Victoria Kelly
+Historical Fiction,The Marriage of Opposites,Alice Hoffman
+Historical Fiction,"Love, Lies and Spies",Cindy Anstey
+Historical Fiction,A Paris Apartment,Michelle Gable
+Historical Fiction,Lilac Girls,Martha Hall Kelly
+Historical Fiction,The Invention of Wings,Sue Monk Kidd
+Historical Fiction,The Passion of Dolssa,Julie Berry
+Historical Fiction,Girl With a Pearl Earring,Tracy Chevalier
+Historical Fiction,The Red Tent,Anita Diamant
+Historical Fiction,The Last Painting of Sara de Vos,Dominic Smith
+Historical Fiction,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer
+Historical Fiction,Girl in the Blue Coat,Monica Hesse
+Historical Fiction,Between Shades of Gray,Ruta Sepetys
+Historical Fiction,While You Were Mine,Ann Howard Creel
+Historical Fiction,The Secret Healer,Ellin Carsta
+Historical Fiction,Starlark,Cael Percy
+Historical Fiction,Lost Among the Living,Simone St. James
+Sequential Art,This One Summer,Mariko Tamaki
+Sequential Art,Patience,Isabel Miller
+Sequential Art,Camp Midnight,Steven T. Seagle
+Sequential Art,The Shadow Hero (The Shadow Hero),David A. Gemmell
+Sequential Art,Batman: The Long Halloween (Batman),Jeph Loeb
+Sequential Art,Through the Woods,Emily Carroll
+Sequential Art,Robin War,Tom King
+Sequential Art,El Deafo,Cece Bell
+Sequential Art,Art Ops Vol. 1,Shaun Simon
+Sequential Art,Roller Girl,Victoria Jamieson
+Sequential Art,Original Fake,Kirstin Cronn-Mills
+Sequential Art,Awkward,Svetlana Chmakova
+Sequential Art,"Giant Days, Vol. 1 (Giant Days #1-4)",John Allison
+Classics,The Secret Garden,Frances Hodgson Burnett
+Classics,The Pilgrim's Progress,John Bunyan
+Classics,Little Women (Little Women #1),E. Disomma
+Classics,Gone with the Wind,Margaret Mitchell
+Classics,Candide,Voltaire
+Classics,Animal Farm,George Orwell
+Classics,Wuthering Heights,Emily Brontë
+Classics,The Picture of Dorian Gray,Oscar Wilde
+Classics,Beowulf,Seamus Heaney
+Classics,And Then There Were None,Agatha Christie
+Classics,The Story of Hong Gildong,Kyun Hŏ
+Classics,The Little Prince,Thomas Barichella
+Classics,Sense and Sensibility,Jane Austen
+Classics,Of Mice and Men,John Steinbeck
+Classics,Emma,Jane Austen
+Classics,Alice in Wonderland (Alice's Adventures in Wonderland #1),Lewis Carroll
+Philosophy,Sophie's World,Jostein Gaarder
+Philosophy,The Stranger,Mark Twain
+Philosophy,Critique of Pure Reason,Immanuel Kant
+Philosophy,The Nicomachean Ethics,Aristotle
+Philosophy,Meditations,Marcus Aurelius
+Philosophy,Beyond Good and Evil,Friedrich Nietzsche
+Romance,Black Dust,Bruce Berglund
+Romance,The Wedding Dress,Danielle Steel
+Romance,Something More Than This,Barbie Bohrman
+Romance,"Sit, Stay, Love","Howard, J.J"
+Romance,A Walk to Remember,Nicholas Sparks
+Romance,The Obsession,Danielle Lori
+Romance,Reservations for Two,Jennifer Lohmann
+Romance,"Rhythm, Chord & Malykhin",Mariana Zapata
+Romance,Imperfect Harmony,Joshua Coleman
+Womens Fiction,Will You Won't You Want Me?,Nora Zelevansky
+Womens Fiction,Keep Me Posted,Lisa Beazley
+Womens Fiction,Meternity,Meghann Foye
+Womens Fiction,Some Women,Erle Stanley Gardner
+Womens Fiction,Can You Keep a Secret?,Sophie Kinsella
+Womens Fiction,Twenties Girl,Sophie Kinsella
+Womens Fiction,The Undomestic Goddess,Sophie Kinsella
+Womens Fiction,The Nanny Diaries (Nanny #1),Emma McLaughlin
+Womens Fiction,I've Got Your Number,Sophie Kinsella
+Fiction,Soumission,Michel Houellebecq
+Fiction,"We Love You, Charlie Freeman",Kaitlyn Greenidge
+Fiction,Thirst,Golden Books
+Fiction,Tuesday Nights in 1980,Molly Prentiss
+Fiction,The Vacationers,Emma Straub
+Fiction,The Regional Office Is Under Attack!,Manuel Gonzales
+Fiction,The Time Keeper,Mitch Albom
+Fiction,The Testament of Mary,Colm Tóibín
+Fiction,Take Me with You,Ida Cook
+Fiction,Still Life with Bread Crumbs,Anna Quindlen
+Fiction,Shtum,Jem Lester
+Fiction,My Name Is Lucy Barton,Elizabeth Strout
+Fiction,My Mrs. Brown,Mr. William Norwich
+Fiction,Eight Hundred Grapes,Laura Dave
+Fiction,Dear Mr. Knightley,Katherine Reay
+Fiction,Balloon Animals,Megan Atwood
+Fiction,The Dinner Party,Neil Simon
+Fiction,The Improbability of Love,Hannah Rothschild
+Fiction,Mothering Sunday,Graham Swift
+Fiction,Lies and Other Acts of Love,Kristy Woodson Harvey
+Fiction,Daredevils,Rosemary Carter
+Fiction,11/22/63,Stephen King
+Fiction,The Shack,William P. Young
+Fiction,The High Mountains of Portugal,Yann Martel
+Fiction,Miller's Valley,Anna Quindlen
+Fiction,Hystopia: A Novel,David Means
+Fiction,Sister Dear,Kate William
+Fiction,Memoirs of a Geisha,Arthur Golden
+Fiction,Deception Point,Dan Brown
+Fiction,The Little Paris Bookshop,Nina George
+Fiction,The Firm,John Grisham
+Fiction,The Expatriates,Janice Y. K. Lee
+Fiction,Siddhartha,Hermann Hesse
+Fiction,Digital Fortress,Dan Brown
+Fiction,Atlas Shrugged,Ayn Rand
+Fiction,Three-Martini Lunch,Suzanne Rindell
+Fiction,The Nightingale,Kristin Hannah
+Fiction,The Infinities,Robert Kanigel
+Fiction,The Husband's Secret,Liane Moriarty
+Fiction,The Art of Fielding,Chad Harbach
+Fiction,Big Little Lies,Liane Moriarty
+Fiction,The Course of Love,Alain De Botton
+Fiction,When I'm Gone,anouar el attari
+Fiction,The Silent Wife,A. S. A. Harrison
+Fiction,The Bette Davis Club,Jane Lotter
+Fiction,Kitchens of the Great Midwest,J. Ryan Stradal
+Fiction,Bright Lines,Mountain
+Childrens,The Bear and the Piano,David Litchfield
+Childrens,The Secret of Dreadwillow Carse,Brian Farrey
+Childrens,Little Red,Audrey Wood
+Childrens,Walt Disney's Alice in Wonderland,Teddy Slater
+Childrens,Twenty Yawns,Jane Smiley
+Childrens,Rain Fish,Jerry Dennis
+Childrens,Once Was a Time,Leila Sales
+Childrens,Luis Paints the World,Terry Farish
+Childrens,Nap-a-Roo,Kristy Kurjan
+Childrens,The Whale,Julia Donaldson
+Childrens,Raymie Nightingale,Kate DiCamillo
+Childrens,Playing from the Heart,Roger Crawford
+Childrens,The Wild Robot,Peter Brown
+Childrens,The Thing About Jellyfish,Ali Benjamin
+Childrens,The Lonely Ones,Louis L'Amour
+Childrens,The Day the Crayons Came Home (Crayons),Drew Daywalt
+Childrens,Red: The True Story of Red Riding Hood,Liesl Shurtliff
+Childrens,Horrible Bear!,"Dyckman, Ame"
+Childrens,Counting Thyme,Melanie Conklin
+Childrens,Are We There Yet?,David Levithan
+Childrens,Matilda,Roald Dahl
+Religion,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Brad Warner
+Religion,The Book of Mormon,"Joseph Smith, Jr."
+Religion,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Worth Books
+Religion,The Bhagavad Gita,Juan Mascaró
+Nonfiction,Reasons to Stay Alive,Matt Haig
+Nonfiction,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Worth Books Staff
+Nonfiction,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle
+Nonfiction,The Omnivore's Dilemma: A Natural History of Four Meals,Worth Books
+Nonfiction,The Genius of Birds,Jennifer Ackerman
+Nonfiction,So You've Been Publicly Shamed,Jon Ronson
+Nonfiction,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Brené Brown
+Nonfiction,The Year of Magical Thinking,Joan Didion
+Nonfiction,Looking for Lovely: Collecting the Moments that Matter,Annie F. Downs
+Nonfiction,Hamilton: The Revolution,John D. Barnhart
+Nonfiction,Brain on Fire: My Month of Madness,Paul Adams / Bookhabits
+Nonfiction,Abstract City,J. E. Carlock
+Nonfiction,The Diary of a Young Girl,Anne Frank
+Nonfiction,"Mother, Can You Not?",Kate Friedman
+Nonfiction,"Zero to One: Notes on Startups, or How to Build the Future",Whizbooks
+Nonfiction,Why Not Me?,Mindy Kaling
+Nonfiction,When Breath Becomes Air,Paul Kalanithi
+Nonfiction,Smarter Faster Better: The Secrets of Being Productive in Life and Business,Worth Books
+Nonfiction,Rising Strong,Brené Brown
+Nonfiction,Man's Search for Meaning,Viktor E. Frankl
+Nonfiction,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",Ron Fournier
+Nonfiction,I Will Find You,Harlan Coben
+Nonfiction,Between the World and Me,Ta-Nehisi Coates
+Nonfiction,Being Mortal: Medicine and What Matters in the End,EssentialReads
+Nonfiction,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks
+Nonfiction,In Cold Blood,Truman Capote
+Nonfiction,"Girl, Interrupted",Susanna Kaysen
+Nonfiction,My Mother Was Nuts,Penny Marshall
+Nonfiction,The Gunning of America: Business and the Making of American Gun Culture,Pamela Haag
+Nonfiction,Under the Banner of Heaven: A Story of Violent Faith,Jon Jon
+Nonfiction,The Name of God is Mercy,Francis Pope
+Nonfiction,Stiff: The Curious Lives of Human Cadavers,Worth Books
+Nonfiction,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Worth Books
+Nonfiction,Outliers: The Story of Success,BookCaps Study Guides Staff
+Nonfiction,Letter to a Christian Nation,Sam Harris
+Nonfiction,Into the Wild,Erin Hunter
+Nonfiction,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Malala Yousafzai
+Nonfiction,Gratitude,Motwani Dev Motwani Dev Publishing
+Nonfiction,Brave Enough,Cheryl Strayed
+Nonfiction,Black Flags: The Rise of ISIS,Worth Books
+Nonfiction,Are We Smart Enough to Know How Smart Animals Are?,Frans De Waal
+Nonfiction,Kindle Paperwhite User's Guide,Jose Emiel
+Nonfiction,H is for Hawk,Helen Macdonald
+Nonfiction,The Tumor,Robert Carachi
+Nonfiction,"Eat, Pray, Love",Elizabeth Gilbert
+Music,Rip it Up and Start Again,Simon Reynolds
+Music,How Music Works,David Byrne
+Music,"Chronicles, Vol. 1",Fabien Nury
+Music,No One Here Gets Out Alive,Jerry Hopkins
+Music,Life,Irving Stone
+Default,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,BookNation
+Default,Aladdin and His Wonderful Lamp,Alan Brown
+Default,Penny Maybe,Kathleen Martin
+Default,Soul Reader,David Brackett
+Default,Bossypants,Tina Fey
+Default,Tracing Numbers on a Train,James McDonald
+Default,Thirteen Reasons Why,Jay Asher
+Default,The Secret (The Secret #1),Pseudonymous Bosch
+Default,The Kite Runner,Khaled Hosseini
+Default,The Girl on the Train,Paula Hawkins
+Default,The Emerald Mystery,j. a. lath
+Default,The Art of War,孙武
+Default,Grumbles,Roger Hargreaves
+Default,Ayumi's Violin,Mariko Tatsumoto
+Default,Anonymous,Somme Sketcher
+Default,Amy Meets the Saints and Sages,Ernie Rosenberg
+Default,Amatus,Maite López Las Heras
+Default,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",K. D. Phillips
+Default,The Wright Brothers,David McCullough
+Default,The Songs of the Gods,Dimitrios Spyridon Chytiris
+Default,Steve Jobs,Walter Isaacson
+Default,Luckiest Girl Alive,Jessica Knoll
+Default,Every Last Word,Tamara Ireland Stone
+Default,Daily Fantasy Sports,Jay Correia
+Default,"Carry On, Warrior: Thoughts on Life Unarmed",Glennon Melton
+Default,Carrie,Stephen King
+Default,"The Three Searches, Meaning, and the Story",John H.T. Francis
+Default,Raspberry Pi Electronics Projects for the Evil Genius,"Norris, Donald (Electrical engineer)"
+Default,Eleanor & Park,Rainbow Rowell
+Default,Adultery,Tess Stimson
+Default,Unlimited Intuition Now,Catherine Carrigan
+Default,Underlying Notes,Eva Pasco
+Default,The Flowers Lied,Michael Goldberg
+Default,Modern Day Fables,Jason Petersen
+Default,Left Behind (Left Behind #1),Jerry B. Jenkins
+Default,I'll Give You the Sun,Jandy Nelson
+Default,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Todd Burpo
+Default,Death by Leisure: A Cautionary Tale,Chris Ayres
+Default,The Great Gatsby,F. Scott Fitzgerald
+Default,The Good Girl,Mary Kubica
+Default,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Whizbooks
+Default,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon
+Default,Life of Pi,Yann Martel
+Default,The Sound Of Love,Norma Frances Greco
+Default,The Perks of Being a Wallflower,Stephen Chbosky
+Default,The Makings of a Fatherless Child,Chandler Alexander
+Default,Musicophilia: Tales of Music and the Brain,Key Key Summaries
+Default,The Fault in Our Stars,John Green
+Default,The 5th Wave (The 5th Wave #1),Richard Yancey
+Default,Remember Me?,Christopher Pike
+Default,Fool Me Once,Harlan Coben
+Default,Drama,Raina Telgemeier
+Default,World War Z: An Oral History of the Zombie War,Max Brooks
+Default,Wild: From Lost to Found on the Pacific Crest Trail,Whizbooks
+Default,"Where'd You Go, Bernadette",Maria Semple
+Default,Twilight (Twilight #1),David Preti
+Default,The Paris Wife,Paula McLain
+Default,The Lover's Dictionary,David Levithan
+Default,The Goldfinch,Donna Tartt
+Default,The Book Thief,Markus Zusak
+Default,The Autobiography of Malcolm X,Harold Bloom
+Default,Quiet: The Power of Introverts in a World That Can't Stop Talking,Book Junkie
+Default,Orange Is the New Black,Piper Kerman
+Default,Life After Life,Raymond A. Moody
+Default,"Lean In: Women, Work, and the Will to Lead",Worth Books
+Default,Is Everyone Hanging Out Without Me? (And Other Concerns),Mindy Kaling
+Default,Gone Girl,Gillian Flynn
+Default,Fellside,M. R. Carey
+Default,Dracula,Bram Stoker
+Default,Dark Places,Gillian Flynn
+Default,A Visit from the Goon Squad,Jennifer Egan
+Default,The Zombie Room,R. D. Ronald
+Default,Jane Eyre,Charlotte Brontë
+Default,Frankenstein,Mary Shelley
+Science Fiction,Join,Johanna Lindsey
+Science Fiction,The Project,Graeme Simsion
+Science Fiction,Soft Apocalypse,Will McIntosh
+Science Fiction,Arena,Booth Tarkington
+Science Fiction,Ready Player One,Ernest Cline
+Science Fiction,Dune (Dune #1),Brian Herbert
+Add a comment,The Art Forger,Eric Hebborn
+Add a comment,On a Midnight Clear,Bruce Hammack
+Add a comment,Modern Romance,Aziz Ansari
+Add a comment,The Song of Achilles,Madeline Miller
+Add a comment,The Immortal Life of Henrietta Lacks,Rebecca Skloot
+Add a comment,The Dovekeepers,Alice Hoffman
+Add a comment,Cell,Kwang W. Jeon
+Add a comment,A People's History of the United States,Howard Zinn
+Add a comment,Rook,Daniel O'Malley
+Add a comment,The Children,Edith Nesbit
+Add a comment,Without Shame,Dennis Craig Smith
+Add a comment,Watchmen,Alan Moore
+Add a comment,The Glass Castle,Jeannette Walls
+Add a comment,The Drowning Girls,Caitlín R. Kiernan
+Add a comment,John Adams,David McCullough
+Add a comment,The Joy of Cooking,Irma S. Rombauer
+Add a comment,The God Delusion,Richard Dawkins
+Add a comment,Pride and Prejudice,Jane Austen
+Add a comment,Mere Christianity,C.S. Lewis
+Add a comment,The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren
+Add a comment,The Complete Poems,Anne Sexton
+Add a comment,The Catcher in the Rye,J. D. Salinger
+Add a comment,The Case for Christ (Cases for Christianity),Immanuel Bourne
+Add a comment,Seven Days in the Art World,Sarah Thornton
+Add a comment,Sarah's Key,Tatiana de Rosnay
+Add a comment,Manuscript Found in Accra,Paulo Coelho
+Add a comment,Cosmos,Alexander von Humboldt
+Add a comment,#GIRLBOSS,Celeste Bradley Designs
+Add a comment,The Sense of an Ending,Julian Barnes
+Add a comment,The Republic,Drew Karpyshyn
+Add a comment,The Odyssey,Όμηρος
+Add a comment,The Light of the Fireflies,Paul Pen
+Add a comment,The Iliad,Όμηρος
+Add a comment,The Communist Manifesto,David Boyle
+Add a comment,Lord of the Flies,William Golding
+Fantasy,Unicorn Tracks,Julia Ember
+Fantasy,Masks and Shadows,Winifred H. Mills
+Fantasy,A Court of Thorns and Roses (A Court of Thorns and Roses #1),Sarah J. Maas
+Fantasy,The Star-Touched Queen,Roshani Chokshi
+Fantasy,Searching for Meaning in Gailana,John H. T. Francis
+Fantasy,The Star-Touched Queen,Roshani Chokshi
+Fantasy,King's Folly (The Kinsman Chronicles #1),Jill Williamson
+Fantasy,Tell the Wind and Fire,Sarah Rees Brennan
+Fantasy,Heir to the Sky,Amanda Sun
+Fantasy,Ash,Frank McCourt
+Fantasy,Vampire Girl (Vampire Girl #1),Chloe Neill
+New Adult,Shameless,Kiki Swinson
+Young Adult,The Requiem Red,Brynn Chapman
+Young Adult,Set Me Free,Jay Dee
+Young Adult,Burning,Jack London
+Young Adult,A Fierce and Subtle Poison,Samantha Mabry
+Young Adult,Scarlett Epstein Hates It Here,Anna Breslaw
+Young Adult,"Nightingale, Sing",Monica Dickens
+Young Adult,Wild Swans,Jung Chang
+Young Adult,This Is Where It Ends,Marieke Nijkamp
+Young Adult,The Darkest Lie,Gena Showalter
+Young Adult,My Kind of Crazy,Robin Reul
+Young Adult,Don't Get Caught,Kurt Dinan
+Young Adult,"Exit, Pursued by a Bear",E. K. Johnston
+Young Adult,The Alien Club,Trel W Sidoruk
+Young Adult,Don't Forget Steven,P. D. Workman
+Young Adult,South of Sunshine,Dana Elmendorf
+Young Adult,My Life Next Door (My Life Next Door ),Huntley Fitzpatrick
+Young Adult,Tell the Wolves I'm Home,Carol Rifka Brunt
+Young Adult,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",John Green
+Young Adult,Two Summers,Nora Roberts
+Young Adult,The Darkest Corners,Elizabeth Haynes
+Young Adult,Tell Me Three Things,Julie Buxbaum
+Young Adult,Kill the Boy Band,Goldy Moldavsky
+Young Adult,An Abundance of Katherines,John Green
+Young Adult,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),Dollhouse
+Young Adult,Two Boys Kissing,David Levithan
+Young Adult,The New Guy (and Other Senior Year Distractions),Amy Spalding
+Young Adult,"The Land of 10,000 Madonnas",Kate Hattemer
+Young Adult,Legend (Legend #1),Gregory Mundy
+Young Adult,Boy Meets Boy,David Levithan
+Young Adult,Annie on My Mind,Nancy Garden
+Young Adult,The Haters,Thomas Shadwell
+Young Adult,The Art of Not Breathing,Sarah Alexander
+Science,The Origin of Species,Charles Darwin
+Science,The Grand Design,Stephen Hawking
+Science,Peak: Secrets from the New Science of Expertise,The Mindset Warrior
+Science,Seven Brief Lessons on Physics,Carlo Rovelli
+Science,The Selfish Gene,Richard Dawkins
+Poetry,A Light in the Attic,Shel Silverstein
+Poetry,The Black Maria,Aracelis Girmay
+Poetry,Shakespeare's Sonnets,William Shakespeare
+Poetry,Olio,Tyehimba Jess
+Poetry,Poems That Make Grown Women Cry,Anthony Holden
+Poetry,Night Sky with Exit Wounds,Ocean Vuong
+Poetry,salt.,Patricia Highsmith
+Poetry,Les Fleurs du Mal,Charles Baudelaire
+Poetry,Howl and Other Poems,Allen Ginsberg
+Poetry,The Crossover,Kwame Alexander
+Poetry,Booked,Donald Nguyen
+Poetry,Twenty Love Poems and a Song of Despair,J. Simon Harris
+Art,Wall and Piece,Banksy
+Art,The New Drawing on the Right Side of the Brain,Betty Edwards
+Art,History of Beauty,Umberto Eco
+Art,The Story of Art,E. H. Gombrich
+Art,The Art Book,Art Book
+Art,Ways of Seeing,John Berger
+Psychology,"Thinking, Fast and Slow",Daniel Kahneman
+Psychology,Civilization and Its Discontents,Sigmund Freud
+Psychology,8 Keys to Mental Health Through Exercise,Christina G. Hibbert
+Autobiography,The Argonauts,Maggie Nelson
+Autobiography,M Train,Patti Smith
+Autobiography,Lab Girl,Hope Jahren
+Autobiography,Running with Scissors,Augusten Burroughs
+Autobiography,Me Talk Pretty One Day,David Sedaris
+Autobiography,Lust & Wonder,James Mahoney
+Autobiography,Life Without a Recipe,Diana Abu-Jaber
+Autobiography,A Heartbreaking Work of Staggering Genius,Dave Eggers
+Humor,Dress Your Family in Corduroy and Denim,David Sedaris
+Humor,When You Are Engulfed in Flames,David Sedaris
+Humor,Naked,William S. Burroughs
+Humor,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore
+Humor,Holidays on Ice,David Sedaris
+Horror,Security,Benjamin Graham
+Horror,Follow You Home,"Edwards, Mark (Fiction writer)"
+Horror,The Loney,Andrew Michael Hurley
+Horror,Pet Sematary,Stephen King
+Horror,Dracula the Un-Dead,Dacre Stoker
+Horror,Needful Things,Stephen King
+Horror,Misery,Stephen King
+Horror,It,Edith Nesbit
+Horror,'Salem's Lot,Stephen King
+Horror,The Stand,Stephen King
+Horror,The Girl with All the Gifts,M. R. Carey
+Horror,House of Leaves,Mark Z. Danielewski
+History,Sapiens: A Brief History of Humankind,BookNation
+History,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,A. C. Grayling
+History,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,Worth Books
+History,Zealot: The Life and Times of Jesus of Nazareth,Reza Aslan
+History,A Short History of Nearly Everything,Bill Bryson
+History,The Rise and Fall of the Third Reich: A History of Nazi Germany,WILLIAM L. SHIRER
+History,The Hiding Place,Corrie ten Boom
+History,The Guns of August,Barbara Tuchman
+Food and Drink,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Ree Drummond
+Food and Drink,Barefoot Contessa Back to Basics,Ina Garten
+Food and Drink,32 Yolks,Eric Ripert
+Food and Drink,The Barefoot Contessa Cookbook,Ina Garten
+Food and Drink,The Smitten Kitchen Cookbook,Deb Perelman
+Christian Fiction,Redeeming Love,Francine Rivers
+Christian Fiction,Close to You,Christina Dodd
+Christian Fiction,Like Never Before (Walker Family #2),Melissa Tagg
+Business,The Dirty Little Secrets of Getting Your Dream Job,Don Raskin
+Business,The Art of Startup Fundraising,Alejandro Cremades
+Business,"Rich Dad, Poor Dad",Robert T. Kiyosaki
+Business,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Worth Books
+Business,Rework,Jason Fried
+Biography,Benjamin Franklin: An American Life,Walter Isaacson
+Thriller,In Her Wake,Amanda Jennings
+Thriller,The Elephant Tree,R. D. Ronald
+Thriller,Behind Closed Doors,B.A. Paris
+Thriller,You (You #1),Ally Carter
+Thriller,Give It Back,Kimberly Daniels
+Thriller,The Travelers,Marco Polo
+Contemporary,When We Collided,Emery Lord
+Contemporary,We Are All Completely Beside Ourselves,Karen Joy Fowler
+Spirituality,The Four Agreements: A Practical Guide to Personal Freedom,"Ruiz, Miguel, 1952-"
+Self Help,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,alex
+Self Help,How to Stop Worrying and Start Living,Dale Carnegie
+Historical,All the Light We Cannot See,Anthony Doerr
+Christian,Crazy Love: Overwhelmed by a Relentless God,Chris Tomlin
+Short Stories,The Grownup,Gillian Flynn
+Health,"Eat Fat, Get Thin",Katya Johansson
+Health,The Art and Science of Low Carbohydrate Living,Jeff Volek
+Politics,Libertarianism for Beginners,Todd Seavey
+Cultural,Amid the Chaos,Nia Quin
+Erotica,Dark Notes,Pam Godwin`
