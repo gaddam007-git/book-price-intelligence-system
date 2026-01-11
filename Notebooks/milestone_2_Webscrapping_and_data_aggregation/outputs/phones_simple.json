@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Nokia 123",
+    "price": "$24.99",
+    "rating_stars": 0,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/static/product/1",
+    "image_url": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "LG Optimus",
+    "price": "$57.99",
+    "rating_stars": 0,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/static/product/2",
+    "image_url": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Sony Xperia",
+    "price": "$118.99",
+    "rating_stars": 0,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/static/product/5",
+    "image_url": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png"
+  }
+]

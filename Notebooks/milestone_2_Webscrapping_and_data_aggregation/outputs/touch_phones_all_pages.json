@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Nokia 123",
+    "price": "$24.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/1",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 1
+  },
+  {
+    "title": "LG Optimus",
+    "price": "$57.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/2",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 1
+  },
+  {
+    "title": "Samsung Galaxy",
+    "price": "$93.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/3",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 1
+  },
+  {
+    "title": "Nokia X",
+    "price": "$109.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/4",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 1
+  },
+  {
+    "title": "Sony Xperia",
+    "price": "$118.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/5",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 1
+  },
+  {
+    "title": "Ubuntu Edge",
+    "price": "$499.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/6",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 1
+  },
+  {
+    "title": "Iphone",
+    "price": "$899.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/7",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 2
+  },
+  {
+    "title": "Iphone",
+    "price": "$899.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/8",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 2
+  },
+  {
+    "title": "Iphone",
+    "price": "$899.99",
+    "rating_stars": 0,
+    "product_url": "/test-sites/e-commerce/static/product/9",
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png",
+    "page": 2
+  }
+]

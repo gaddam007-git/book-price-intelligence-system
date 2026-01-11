@@ -1,0 +1,4 @@
+title,price,rating_stars,product_url,image_url
+Nokia 123,$24.99,0,https://webscraper.io/test-sites/e-commerce/static/product/1,https://webscraper.io/images/test-sites/e-commerce/items/cart2.png
+LG Optimus,$57.99,0,https://webscraper.io/test-sites/e-commerce/static/product/2,https://webscraper.io/images/test-sites/e-commerce/items/cart2.png
+Sony Xperia,$118.99,0,https://webscraper.io/test-sites/e-commerce/static/product/5,https://webscraper.io/images/test-sites/e-commerce/items/cart2.png
